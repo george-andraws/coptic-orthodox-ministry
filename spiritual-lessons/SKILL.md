@@ -186,9 +186,10 @@ Every output must be:
 
 ## Reference Files
 
-- [`style-guides/lesson-structure.md`](style-guides/lesson-structure.md) - detailed lesson format with examples
-- [`style-guides/whatsapp-promo.md`](style-guides/whatsapp-promo.md) - promo message examples and tone guide
-- [`theology-references/theological-posture.md`](theology-references/theological-posture.md) - Orthodox doctrine and patristic approach
-- [`theology-references/liturgical-framework.md`](theology-references/liturgical-framework.md) - feasts, fasts, and sacramental connections
-- [`series/INDEX.md`](series/INDEX.md) - all series with session lists and status
-- [`standalone/INDEX.md`](standalone/INDEX.md) - all standalone lessons
+Read these files when they are relevant to the task at hand. They are bundled
+with this skill and available locally after installation.
+
+- [`style-guides/lesson-structure.md`](style-guides/lesson-structure.md) - detailed lesson format, tone guide, section-by-section instructions, and file naming conventions. Read this before generating any lesson.
+- [`style-guides/whatsapp-promo.md`](style-guides/whatsapp-promo.md) - promo message structure, tone, examples for all four message types, and what to avoid. Read this before generating any promo.
+- [`theology-references/theological-posture.md`](theology-references/theological-posture.md) - Orthodox doctrine, what to avoid theologically, Coptic distinctives, patristic citation rules. Read this if any theological framing question arises.
+- [`theology-references/liturgical-framework.md`](theology-references/liturgical-framework.md) - Coptic fasts, feasts, Holy Week, the sacraments, the Agpeya hours, and how to connect content to the liturgical calendar. Read this when the lesson touches a feast, fast, or sacramental theme.
