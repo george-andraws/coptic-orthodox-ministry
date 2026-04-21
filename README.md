@@ -40,7 +40,7 @@ Platform-specific versions are also available:
 ### Option B - Install as a skill (Claude Code, Cursor, Codex CLI, etc.)
 
 ```bash
-npx skills add github.com/[your-username]/coptic-orthodox-ministry/spiritual-lessons
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/spiritual-lessons
 ```
 
 The skill will be available to your AI coding agent automatically.

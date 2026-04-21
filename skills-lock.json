@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "coptic-orthodox-spiritual-lessons": {
+      "source": "george-andraws/coptic-orthodox-ministry",
+      "sourceType": "github",
+      "computedHash": "86e15ae53f093d98a3aebdd2e85cde5862eb0c1517acf778c07736efe4e5d7cb"
+    }
+  }
+}
