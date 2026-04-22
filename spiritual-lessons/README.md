@@ -1,93 +1,58 @@
 # Spiritual Lessons
 
-A collection of 40 spiritual lessons prepared for the adult English meeting of a Coptic Orthodox congregation. All lessons converted from Google Docs to Markdown in April 2026.
+All lesson content for the Coptic Orthodox adult meeting.
+Christ-centered, patristically grounded, and pastorally useful.
 
 ---
 
-## Structure
+## How to Use This Content
 
-```
-spiritual-lessons/
-├── series/          # Lessons organized by teaching series
-│   ├── INDEX.md     # Full index of all series
-│   ├── encounters-with-christ/
-│   ├── heirs-of-the-apostles/
-│   ├── i-am-statements/
-│   ├── lent/
-│   ├── life-of-david/
-│   ├── liturgy/
-│   ├── old-testament-prophecies/
-│   ├── on-the-incarnation/
-│   ├── our-father/
-│   ├── parables/
-│   ├── questions-jesus-asked/
-│   └── saints/
-└── standalone/      # Lessons not part of a series
-    └── INDEX.md     # Full index of standalone lessons
+**Browse lessons:** Navigate the series and standalone tables below.
+Each lesson links directly to the full markdown file.
+
+**Use with AI:** Copy the system prompt from
+[system-prompts/claude-projects.md](system-prompts/claude-projects.md)
+into Claude, ChatGPT, or any LLM to generate new lessons in the same style.
+
+**Install as a skill (Claude Code, Cursor, Codex):**
+```bash
+npx skills add george-andraws/coptic-orthodox-ministry
 ```
 
----
-
-## Series (27 lessons)
-
-### Encounters with Christ
-Lessons exploring specific Gospel encounters: the Prodigal Son, the Road to Emmaus, the Man Born Blind, and the Paralyzed Man.
-
-### Heirs of the Apostles
-A 13-session survey of the Church Fathers: St. Mark, Origen, Athanasius, Basil, the Cappadocians, Cyril, Chrysostom, Ephrem, and the Desert Fathers. Running April–July 2026.
-
-### I AM Statements
-Lessons on Jesus' seven "I AM" declarations in John's Gospel. Current entry: "I AM the Bread of Life" (John 6).
-
-### Lent
-Lessons for the Great Lenten season. Current entry: The Temptation of Christ.
-
-### Life of David
-A multi-part series on the life of King David as a type of Christ and model for the Christian life. Sessions 1 and 4 available.
-
-### Liturgy
-Lessons on the theology and structure of the Divine Liturgy. Current entry: The Liturgy of the Word.
-
-### Old Testament Prophecies
-Typological and prophetic studies in the Old Testament. Current entry: The Suffering Messiah (Isaiah 53, Psalm 22, Passover, Jonah).
-
-### On the Incarnation (St. Athanasius)
-A study of St. Athanasius's classic work, written c. 318–320 AD. Current entry: Chapters 1–3 (Creation, Fall, Divine Dilemma).
-
-### Our Father (The Lord's Prayer)
-Lessons on each petition of the Lord's Prayer. Current entries: "Hallowed Be Thy Name" and "Give Us This Day Our Daily Bread."
-
-### Parables
-Eight lessons on the parables of Jesus, including the Good Samaritan, the Sower, the Talents (two versions), the Pearl of Great Price, the Faithful Steward, the Barren Fig Tree, and a summary of Pope Shenouda III's 15 parables.
-
-### Questions Jesus Asked
-Five lessons on questions Jesus asked His disciples and others: "Do You Love Me?", "Why Do You Call Me Lord?", "Do You Believe I Am Able?", "Do You Want to Be Made Well?", and "Who Do You Say That I Am?"
-
-### Saints
-Three saints' lives: Saint Anba Wanas, Saint Abraam of Fayoum, and Saint Mary the Theotokos.
+**Contributing:** See [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ---
 
-## Standalone Lessons (10 lessons)
+## Series
 
-Ten lessons on individual topics: community outreach, St. Mary's trials, the Desert Fathers, excuses and goals, thankfulness (two lessons), temperance, the Catholic Epistles, spiritual fatherhood, and the human will.
-
-→ [See the Standalone Index](standalone/INDEX.md)
+| Series | Sessions | Lessons | Theme |
+|---|---|---|---|
+| [Encounters with Christ](series/encounters-with-christ/) | 4 | [Prodigal Son](series/encounters-with-christ/prodigal-son.md), [Road to Emmaus](series/encounters-with-christ/road-to-emmaus.md), [Man Born Blind](series/encounters-with-christ/man-born-blind.md), [Paralyzed Man](series/encounters-with-christ/paralyzed-man.md) | Christ meets us in weakness |
+| [Heirs of the Apostles](series/heirs-of-the-apostles/) | 1 | [Series Overview](series/heirs-of-the-apostles/overview.md) | Receiving the Apostolic faith |
+| [I AM Statements](series/i-am-statements/) | 1 | [I AM the Bread of Life](series/i-am-statements/i-am-the-bread-of-life.md) | Jesus' divine self-disclosure |
+| [Lent](series/lent/) | 1 | [The Temptation of Christ](series/lent/temptation.md) | Resisting evil with Scripture |
+| [Life of David](series/life-of-david/) | 2 | [David 1: Shepherd & Anointing](series/life-of-david/01-shepherd-to-hero.md), [David 4: Ark & Covenant](series/life-of-david/04-life-of-david-part-4.md) | David as shepherd and king |
+| [Liturgy](series/liturgy/) | 1 | [The Liturgy of the Word](series/liturgy/sacrament-of-the-word.md) | Theology of the Divine Liturgy |
+| [Old Testament Prophecies](series/old-testament-prophecies/) | 1 | [The Suffering Messiah](series/old-testament-prophecies/suffering-messiah.md) | Christ foretold in Scripture |
+| [On the Incarnation](series/on-the-incarnation/) | 1 | [Chapters 1–3: Creation, Fall, Dilemma](series/on-the-incarnation/on-the-incarnation-ch1-3.md) | Athanasius on the Word made flesh |
+| [Our Father](series/our-father/) | 2 | [Hallowed Be Thy Name](series/our-father/hallowed-be-thy-name.md), [Give Us This Day Our Daily Bread](series/our-father/give-us-this-day-our-daily-bread.md) | Petitions of the Lord's Prayer |
+| [Parables](series/parables/) | 8 | [Sower, Seed & Soil](series/parables/sower-seed-soil.md), [Good Samaritan](series/parables/good-samaritan.md), [15 Parables](series/parables/15-parables-summary.md), [Talents 2024](series/parables/the-talents-2024.md), [Talents 2025](series/parables/the-parable-of-the-talents-2025.md), [Faithful Steward](series/parables/the-faithful-and-wise-steward.md), [Pearl of Great Price](series/parables/the-pearl-of-great-price.md), [Barren Fig Tree](series/parables/the-barren-fig-tree.md) | Kingdom parables of Jesus |
+| [Questions Jesus Asked](series/questions-jesus-asked/) | 5 | [Do You Love Me?](series/questions-jesus-asked/do-you-love-me.md), [Why Do You Call Me Lord?](series/questions-jesus-asked/why-do-you-call-me-lord.md), [Do You Believe I Am Able?](series/questions-jesus-asked/do-you-believe-i-am-able.md), [Do You Want to Be Made Well?](series/questions-jesus-asked/do-you-want-to-be-made-well.md), [Who Do You Say That I Am?](series/questions-jesus-asked/who-do-you-say-that-i-am.md) | Questions Jesus asked his disciples |
+| [Saints](series/saints/) | 3 | [St. Anba Wanas](series/saints/saint-anba-wanas.md), [St. Abraam of Fayoum](series/saints/st-abraam-of-fayoum.md), [St. Mary the Theotokos](series/saints/st-mary.md) | Lives and intercession of the saints |
 
 ---
 
-## Format
+## Standalone Lessons
 
-Each lesson file follows a consistent format:
-
-- **PPTX link block** (if a presentation exists): `> 📎 **Presentation:** [Title](URL)`
-- **Metadata block**: source Google Doc URL and conversion date
-- **Content**: clean Markdown with `#`/`##`/`###` headings, `>` blockquotes for scripture, bold/italic preserved
-
----
-
-## Conversion Notes
-
-- All lessons converted from Google Docs to Markdown: **2026-04-22**
-- Source documents: shared Google Drive folder (40 documents)
-- Conversion rules: headings, bold/italic, scripture blockquotes, no theological content altered
+| Lesson | Topic | Slides |
+|---|---|---|
+| [Paradise in the Desert: The Desert Fathers](standalone/desert-fathers-monasticism.md) | Monasticism | [📎 Slides](https://drive.google.com/file/d/1XC9MlIf1gd_obyYDGwaoXbbOFXwsvWtg/view?usp=drive_link) |
+| [Let It Be to Me: Trials and Faith of St. Mary](standalone/fiat-trials-faith-st-mary.md) | Suffering and trust | — |
+| [God Cares for Each Person & Our Call to Connect](standalone/god-cares-for-each-person.md) | Outreach | — |
+| [Quit Making Excuses: The Great Banquet](standalone/stop-making-excuses-goals.md) | Obedience and goals | [📎 Slides](https://drive.google.com/file/d/1MzsKYWHcHed3B9ZqVvU-IVbz8Us02Fwu/view?usp=drive_link) |
+| [Spiritual Fatherhood: More Than an Instructor](standalone/spiritual-fatherhood.md) | Discipleship | — |
+| [Temperance and Self-Control](standalone/temperance-and-self-control.md) | Virtue | — |
+| [Thankfulness: The Practice and the Posture](standalone/thankfulness.md) | Gratitude | — |
+| [Thanksgiving: A Mindset and a Practice](standalone/thanksgiving.md) | Gratitude | — |
+| [The Will of Man and the Will of God](standalone/the-will-of-man-and-the-will-of-god.md) | Spiritual willpower | — |
+| [Themes of the Catholic Epistles](standalone/themes-of-the-catholic-epistles.md) | New Testament survey | — |
