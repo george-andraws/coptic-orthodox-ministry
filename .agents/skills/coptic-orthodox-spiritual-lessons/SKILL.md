@@ -1,195 +1,155 @@
 ---
 name: coptic-orthodox-spiritual-lessons
-description: >
-  Use this skill whenever preparing Coptic Orthodox spiritual lesson content,
-  teaching series, Bible study materials, WhatsApp promotional messages, discussion
-  questions, lesson outlines, or series plans for an Orthodox adult meeting or
-  Bible study. Triggers on any request involving Orthodox lesson preparation,
-  series development, patristic content, Orthodox theology, Coptic church content,
-  scripture study with Orthodox framing, or ministry promotional messages.
-  Also use when the user asks for help with Lenten reflections, typology, Holy
-  Week meditations, feast day lessons, liturgical connections, or any content
-  for a Coptic Orthodox servant or teacher preparing for an adult audience.
+description: Create and revise Coptic Orthodox spiritual lessons, adult-meeting lessons, feast and fast lessons, saint lessons, Orthodox articles, and church teaching notes.
 ---
 
-# Coptic Orthodox Spiritual Lessons Skill
+# Coptic Orthodox Spiritual Lessons
 
-A skill for preparing deeply Orthodox, Christ-centered, patristically grounded
-spiritual lesson content for adult meetings, Bible studies, and ministry use.
+Use this skill for Orthodox teaching artifacts: adult meeting lessons, Bible-study-style lessons, saint and Church Fathers sessions, feast/fast lessons, articles, reflections, WhatsApp promos, and servant teaching notes.
 
----
+This skill is intentionally public and reusable. It must not depend on a private vault, local filesystem path, specific church calendar, or private source database.
 
-## Core Theological Posture
+## Lane discipline
+
+- Use this skill for the full lesson artifact.
+- Use `orthodox-biblical-explanation` for Scripture exegesis when the user asks mainly about a passage.
+- Use `orthodox-iconography` when an icon, image, scene, inscription, or visual theology needs close interpretation.
+- Use the shared references in `../shared-references/` for patristic sourcing, depth bar, source confidence, and visual asset policy.
+
+## Core theological posture
 
 All content must be:
 
-- **Fully Orthodox.** Aligned with the Coptic Orthodox Church and ancient Orthodox Christianity.
-- **Christ-centered.** Every lesson ultimately points to Christ: His person, His work, His Cross, His Resurrection, His Church.
-- **Biblical.** Scripture is primary. Use it richly, accurately, and in context.
-- **Patristic.** Use real, verifiable Fathers' quotes only. If uncertain, paraphrase the theme cautiously and note it is consistent with the Fathers. Never invent attributions.
-- **Sacramental and ecclesial.** Connect content to liturgy, feasts, fasts, prayer, and the sacraments where relevant.
+- **Fully Orthodox.** Aligned with the Coptic Orthodox Church, the Church Fathers, and ancient Orthodox Christianity.
+- **Christ-centered.** Every lesson should point to Christ: His person, His work, His Cross, His Resurrection, His Church.
+- **Biblically grounded.** Scripture is primary. Use it richly, accurately, and in context.
+- **Patristically informed.** Use real, verifiable patristic sources. Never invent quotes or attributions.
+- **Sacramental and ecclesial.** Connect teaching to worship, prayer, fasting, feasts, repentance, Eucharist, Baptism, the Church, and the life of holiness where relevant.
+- **Pastorally serious.** The lesson should move the heart toward repentance, faith, prayer, mercy, and transformation, not merely inform the mind.
 
-**Never produce:**
-- Generic "Christian" content that could belong to any denomination
-- Motivational or therapeutic content dressed up with scripture
-- Content that flattens Orthodox doctrine for broader appeal
-- Lessons that inform without moving the heart
+Avoid:
 
-**Core themes that must run through content:**
-Repentance, humility, salvation in Christ, healing of the soul, holiness, watchfulness, prayer, ascetic struggle, divine mercy, the Cross, the Resurrection, life in the Church.
+- generic Christian content with Orthodox labels added afterward
+- motivational or therapeutic content dressed up with Bible verses
+- flattening Orthodox doctrine for broader appeal
+- biography dumps that never become spiritual teaching
+- doctrine lectures detached from prayer, repentance, worship, or the life of the Church
 
----
+## Anti-filler rule
 
-## Audience and Tone
+Every application must arise from the specific passage, doctrine, feast, fast, saint, icon, liturgical context, or pastoral burden being taught. Generic encouragement fails the quality bar.
 
-- English-speaking Coptic Orthodox adults
-- Warm, clear, spiritually deep, and serious
-- Understandable but substantial. Not academic for its own sake.
-- Every lesson must aim to move the heart toward repentance, faith, prayer, and transformation - not merely inform
+Weak: "We should all be more faithful."
 
----
+Stronger: "Because the blind man receives sight before he fully understands who Christ is, the lesson teaches us to obey the light we have received instead of waiting until every question is answered."
 
-## Method
+## Before drafting a full lesson
 
-For every lesson:
-- Use Scripture richly. Include full passage text when relevant, then explain.
-- Include patristic insight with real quotes and references where possible.
-- Use typology, symbolism, and liturgical connections where they illuminate the text.
-- Include historical context, name meanings, literary structure, Hebrew/Greek word origins when they shed light.
-- Connect the hearer personally to the passage at every major section.
+Unless the user explicitly says to draft immediately, begin with a short research-and-direction pass:
 
-For every major section:
-1. What is happening in the text
-2. What it reveals about God, Christ, man, sin, salvation, or the spiritual life
-3. Spiritual application
-4. Personal connection to the hearer
+1. Identify the likely governing Scripture, feast, saint, doctrine, or pastoral burden.
+2. Name the strongest lesson angle: theological burden, practical virtue, liturgical hook, or Church Fathers connection.
+3. Ask only 2-4 clarifying questions that materially change the lesson.
+4. Recommend a default direction if the user wants to proceed without answering.
+5. Check whether iconography or visual material would deepen the lesson.
 
----
+If the user asks for a quick announcement, promo, or short reflection, compress this step and proceed.
 
-## Default Lesson Structure
+## Default full-lesson structure
 
-1. **Title**
-2. **Main burden / core theme** - one paragraph
-3. **Opening hook** - a question, image, or striking observation
-4. **Scriptural and historical context**
-5. **Main teaching sections** with verse-by-verse or section-by-section explanation
-6. **Orthodox theological significance**
-7. **Patristic insight** where useful
-8. **Old Testament links / typology** where relevant
-9. **Liturgical / sacramental / ecclesial connection**
-10. **Personal spiritual contemplation**
-11. **Practical application for adult life**
-12. **Conclusion**
-13. **Discussion questions** (3 to 5)
-14. **Optional closing prayer**
+Use this order for substantial lessons. Sections may be compressed, but do not silently omit the core safeguards.
 
----
+1. **Title** - spiritually oriented, not merely descriptive.
+2. **Main burden / core theme** - one paragraph naming the spiritual claim.
+3. **Opening hook** - question, image, story, or contrast that exposes the need.
+4. **Scriptural and historical context** - what is happening and why it matters.
+5. **Main teaching sections** - work through the passage/topic in clean lesson prose.
+6. **Christological anchor** - especially for lessons on virtue, ethics, mercy, justice, prayer, generosity, suffering, or repentance.
+7. **Orthodox theological significance** - what the passage/topic reveals about Christ, salvation, the Church, theosis, repentance, worship, or the sacraments.
+8. **Patristic insight** - real, sourced Fathers only. Prefer a few strong anchors over many decorative citations.
+9. **Old Testament links and typology** - where genuinely relevant.
+10. **Liturgical / sacramental / ecclesial connection** - connect to feasts, fasts, hymns, services, prayers, and sacraments when grounded.
+11. **Iconography connection** - name and explain relevant icons or state briefly when no direct iconographic connection is central.
+12. **Personal spiritual contemplation** - turn the teaching inward without sentimentality.
+13. **Practical application for adult life** - concrete, non-generic, Monday-morning obedience.
+14. **Conclusion** - return to Christ, not merely the hearer's effort.
+15. **Teaching guide** - teacher-facing notes near the end, organized by passage or major section with plain section labels:
+    - Ask: discussion prompt
+    - Emphasize: teaching point
+    - Watch for: pastoral caution or misunderstanding
+    - Connect: link to Christ, repentance, worship, or the lesson arc
+    - Show: when to use an icon, map, slide, or handout
+16. **Discussion questions** - 3-5 if not already covered in the Teaching guide.
+17. **Glossary / reference terms** - technical, patristic, historical, liturgical, Greek, Hebrew, Coptic, Syriac, or iconographic terms.
+18. **Sources and further reading** - separate primary sources, secondary academic sources, Coptic Orthodox / pastoral sources, iconography/image sources, and web sources.
+19. **Optional closing prayer**.
 
-## Before Generating a Lesson
+## Church Fathers and saint lessons
 
-Unless told otherwise, always do this first:
-1. Ask clarifying questions that would sharpen the lesson
-2. Suggest improvements to the topic, framing, title, structure, or scope
-3. Offer a better angle or clearer lesson burden if one exists
+Do not teach saints as moral mascots or timelines. A strong Church Fathers lesson balances:
 
-Then generate the lesson.
+1. **Historical context** - upbringing, education, political/social/ecclesiastical climate, and why the moment mattered.
+2. **Personal life and virtues** - formation, relationships, temptations, wounds, humility, courage, repentance, pastoral character.
+3. **Doctrinal contribution** - what the saint taught or defended and why it mattered for salvation.
+4. **Coptic/Orthodox reception** - Synaxarium, liturgical use, titles, common confusions, and the saint's continuing place in the Church.
 
----
+If several saints share the same name, include a concise disambiguation table.
 
-## Series Generation
+For Church Fathers lessons, include surviving works and legacy by genre rather than dumping titles. Explain why the writings mattered for worship, doctrine, Scripture reading, and spiritual life.
 
-When asked for a new series, generate Orthodox series ideas that are spiritually cohesive and realistic for an adult meeting.
+## Patristic sourcing rules
 
-For each series include:
-- Series title
-- Core concept (one paragraph)
-- Spiritual need it addresses
-- Number of sessions
-- Title and key scripture for each session
-- Brief explanation of each session
-- Why the series matters now
+- Never fabricate a patristic quote.
+- Prefer primary-source citations: work, book/chapter/section, homily number, or paragraph where possible.
+- If exact wording is uncertain, paraphrase and say the Father teaches or emphasizes the theme rather than presenting quotation marks.
+- If using a modern Coptic Orthodox source that summarizes the Fathers, cite it as a modern pastoral source, not as the ancient Father directly.
+- Distinguish received liturgical attribution from modern historical certainty when needed.
+- Use direct quotes sparingly and only when verified wording strengthens the teaching.
 
-**Strong series types:**
-- Encounters with Christ
-- Virtues and passions
-- Repentance and return to God
-- Feasts and fasts of the Church
-- Holy Week / Pascha meditations
-- Old Testament fulfilled in Christ
-- Parables of repentance, judgment, mercy, and the Kingdom
-- Hard sayings of Christ
-- The prayers and life of the Church
-- Biblical characters in crisis
-- Healing stories and spiritual illness
-- The Cross in Scripture and liturgy
-- Lives of saints as mirrors of the Gospel
+See `../shared-references/patristic-sources.md` and `../shared-references/source-confidence.md`.
 
----
+## Liturgical and historical caution
 
-## WhatsApp Promo Messages
+If a rite, hymn, feast, reading, Synaxarium commemoration, or Coptic practice detail is uncertain, say so and verify. Do not guess.
 
-When asked for a WhatsApp promotional message for a meeting:
+When a traditional attribution or historical claim is contested, state it carefully:
 
-**Tone:** warm, enthusiastic, spiritually meaningful, concise, inviting, occasionally lightly playful. Never cheesy or overly formal.
+- "The Church receives this text under..."
+- "The exact history is more complex..."
+- "This is a later tradition, but it expresses..."
 
-**Structure:**
-1. Hook line with emoji(s)
-2. 1 to 3 short teaser lines about the lesson theme
-3. Time and location
-4. Invitation to attend
-5. Optional playful or smile-inducing closing line
+## Visual and iconography guidance
 
-**Versions available on request:**
-- Concise (3 to 5 lines)
-- Medium (full structure above)
-- Playful (lighter tone, gentle pun or wit)
-- Reverent (more serious, contemplative tone)
+Use iconography as theology in color, not decoration. For relevant lessons:
 
----
+- name the icon or scene
+- explain composition, figures, gestures, inscriptions, colors, placement, or symbols
+- distinguish iconographic tradition from historical documentation
+- cite image sources and rights where possible
+- put teaching-use instructions in the final Teaching guide, not under the image caption
 
-## Known Series and Content History
+If an actual image must be identified, use `orthodox-iconography`.
 
-The following series and lessons have already been developed in this tradition.
-New content should feel consistent with this history in tone, depth, and approach.
+## Short ministry announcements and promos
 
-**Series:**
-- Encounters with Christ (Lenten): Treasure, Healing after 38 years, Meeting Christ where we are, Prodigal Son
-- Old Testament Prophecies: Christ Promised from the Beginning, Isaiah 53, Psalm 22, Bronze Serpent
-- Questions Jesus Asked
-- Our Father (phrase by phrase)
-- I AM statements of Christ
-- Parables
-- Life of David
-- Resurrection Encounters
-- Virtues (Generosity, Temperance, Forgiveness, Thankfulness)
-- On the Incarnation (Athanasius)
+For announcements, WhatsApp promos, and short ministry communications:
 
-**Standalone:**
-- Forgiveness (humility, freedom, vengeance vs mercy, Psalm 103, unforgiving servant)
-- Holy Week / Pascha meditations and service breakdowns
-- Deep Scripture studies with context, patristic reflection, and practical application
+- start with the spiritual foundation, not logistics
+- name the service as obedience to Christ, not branding or activity
+- give only the concrete details people need to trust and respond
+- include specific ways to participate: pray, give, prepare, attend, invite, serve
+- close with a clear invitation, not hedging
 
----
+For outreach-specific messaging, use `orthodox-outreach-communications`.
 
-## Quality Bar
+## Output quality checklist
 
-Every output must be:
-- Spiritually deep and theologically faithful
-- Pastorally useful, not just doctrinally correct
-- Grounded in Scripture and Orthodox life
-- Practical for adults
-- Introspective, inviting repentance and transformation
-- Substantial without being bloated
-- Beautiful but clear
+Before finalizing a lesson:
 
----
-
-## Reference Files
-
-Read these files when they are relevant to the task at hand. They are bundled
-with this skill and available locally after installation.
-
-- [`style-guides/lesson-structure.md`](style-guides/lesson-structure.md) - detailed lesson format, tone guide, section-by-section instructions, and file naming conventions. Read this before generating any lesson.
-- [`style-guides/whatsapp-promo.md`](style-guides/whatsapp-promo.md) - promo message structure, tone, examples for all four message types, and what to avoid. Read this before generating any promo.
-- [`theology-references/theological-posture.md`](theology-references/theological-posture.md) - Orthodox doctrine, what to avoid theologically, Coptic distinctives, patristic citation rules. Read this if any theological framing question arises.
-- [`theology-references/liturgical-framework.md`](theology-references/liturgical-framework.md) - Coptic fasts, feasts, Holy Week, the sacraments, the Agpeya hours, and how to connect content to the liturgical calendar. Read this when the lesson touches a feast, fast, or sacramental theme.
+- Is the main burden clear?
+- Is Christ central?
+- Does the application arise from this specific material?
+- Are patristic claims real and sourced?
+- Are uncertain liturgical/historical claims marked honestly?
+- Is the lesson Orthodox in imagination, not generic with Orthodox vocabulary?
+- Does the Teaching guide help an actual servant teach the lesson?

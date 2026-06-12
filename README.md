@@ -7,10 +7,11 @@ A shared, open-source repository of AI skills, system prompts, and prepared cont
 ## What This Is
 
 This repo contains:
-- **AI skills** that teach any compatible AI assistant how to prepare deeply Orthodox spiritual content
+- **AI skills** that teach compatible AI assistants how to prepare deeply Orthodox spiritual content
 - **System prompts** you can paste into Claude, ChatGPT, Gemini, or any LLM
 - **Prepared lessons, series, and study materials** ready to use or adapt
-- **Style guides** for lesson structure, tone, and quality standards
+- **Style guides** for lesson structure, tone, source confidence, iconography, and ministry communication
+- **Shared references** for patristic sourcing, Coptic Orthodox source discovery, and visual asset usage
 
 Everything is grounded in ancient Orthodox Christianity, especially the Coptic Orthodox tradition: Christ-centered, biblical, patristic, sacramental, and pastorally serious.
 
@@ -39,11 +40,21 @@ Platform-specific versions are also available:
 
 ### Option B - Install as a skill (Claude Code, Cursor, Codex CLI, etc.)
 
+Install the main lesson skill:
+
 ```bash
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/spiritual-lessons
 ```
 
-The skill will be available to your AI coding agent automatically.
+Optional supporting skills:
+
+```bash
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-biblical-explanation
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-iconography
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/outreach
+```
+
+The skills will be available to compatible AI coding agents automatically.
 
 ### Option C - Browse and reuse prepared content
 
@@ -59,20 +70,20 @@ coptic-orthodox-ministry/
 ├── README.md                        ← you are here
 ├── CONTRIBUTING.md                  ← how to contribute content or skills
 │
-├── spiritual-lessons/               ← Category 1: adult lessons and series
-│   ├── SKILL.md                     ← installable AI skill
+├── spiritual-lessons/               ← Adult lessons and series
+│   ├── SKILL.md                     ← installable lesson-writing skill
+│   ├── references/                  ← lesson-specific references
 │   ├── system-prompts/              ← paste into any LLM
 │   ├── style-guides/                ← lesson structure and promo format
 │   ├── theology-references/         ← Orthodox doctrine and patristic approach
 │   ├── series/                      ← multi-lesson series with overviews
-│   │   ├── INDEX.md                 ← master list of all series
-│   │   ├── encounters-with-christ/
-│   │   └── old-testament-prophecies/
 │   └── standalone/                  ← single topical lessons
-│       └── INDEX.md                 ← master list of standalone lessons
 │
-├── deacon-guides/                   ← Category 2 (coming)
-└── outreach/                        ← Category 3 (coming)
+├── orthodox-biblical-explanation/   ← passage-exegesis support skill
+├── orthodox-iconography/            ← iconography and visual theology skill
+├── outreach/                        ← Orthodox outreach communications skill
+├── shared-references/               ← shared sourcing and quality references
+└── deacon-guides/                   ← Category 2 (coming)
 ```
 
 ---

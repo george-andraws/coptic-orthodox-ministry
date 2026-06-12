@@ -1,162 +1,110 @@
 # Lesson Structure Style Guide
 
-This file defines the standard structure, tone, and quality expectations for every
-lesson prepared using this skill. Use it as a checklist and reference during
-lesson preparation.
+This guide defines the public standard for Coptic Orthodox lesson content prepared with the `coptic-orthodox-spiritual-lessons` skill.
 
----
+## Standard lesson order
 
-## Standard Lesson Structure
+1. **Title**
+   - Clear, evocative, spiritually oriented.
+   - Name the burden, not just the topic.
+   - Strong: "The Paralysis We Choose: Healing After 38 Years"
+   - Weak: "The Man at the Pool of Bethesda"
 
-Every lesson follows this order. Sections can be expanded or condensed based on
-the lesson's scope, but none should be skipped without reason.
+2. **Main burden**
+   - One short paragraph naming the lesson's central spiritual claim.
+   - What should the hearer understand, feel, repent of, and move toward?
 
-### 1. Title
-Clear, evocative, spiritually oriented. Should name the burden, not just the topic.
+3. **Opening hook**
+   - A question, image, story, or contrast that connects ordinary life to the text.
 
-- Good: *"The Paralysis We Choose: Healing After 38 Years"*
-- Weak: *"The Man at the Pool of Bethesda"*
+4. **Scriptural and historical context**
+   - Who wrote this? When? To whom?
+   - What is happening around the passage?
+   - What cultural, political, liturgical, or ecclesial background matters?
 
-### 2. Main Burden
-One short paragraph. The single spiritual claim the lesson is making.
-What do you want the hearer to walk away having understood, felt, and been moved toward?
+5. **Main teaching sections**
+   - Explain the passage or topic section by section.
+   - For each section: what happens, what it reveals, spiritual application, personal connection.
+   - Keep the body clean. Do not scatter teacher scaffolding through the lesson body.
 
-### 3. Opening Hook
-A question, image, short story, or striking observation that pulls the hearer in.
-Should connect to ordinary life before moving to the text.
+6. **Orthodox theological significance**
+   - Explain what is distinctly important for Orthodox faith and life: Christology, theosis, repentance, sacraments, Church, prayer, watchfulness, mercy, holiness.
 
-Examples:
-- A question that exposes a familiar spiritual struggle
-- A contrast between what we expect and what Scripture shows
-- A brief image or scene that mirrors the passage's theme
+7. **Patristic insight**
+   - Use real, verifiable sources.
+   - Prefer specific citations such as `St. Basil, On the Holy Spirit 15.36` over vague attribution.
+   - If exact wording or source is uncertain, paraphrase honestly.
+   - Never invent a quote.
 
-### 4. Scriptural and Historical Context
-- Who wrote this? When? To whom?
-- What is happening in the narrative around this passage?
-- What would the original hearers have understood that we might miss?
-- Include name meanings, geography, cultural or religious background where illuminating
+8. **Old Testament links and typology**
+   - Include where relevant: person, event, prophecy, rite, temple, priesthood, sacrifice, exile, wisdom, kingship, covenant, creation.
+   - Skip only when genuinely irrelevant.
 
-### 5. Main Teaching Sections
-Work through the passage section by section or verse by verse.
+9. **Liturgical and sacramental connection**
+   - Connect to feasts, fasts, Agpeya, Eucharist, Baptism, Repentance, hymns, Psalmody, Synaxarium, and Church life when grounded.
+   - Mark uncertainty clearly.
 
-For each section, cover all four of these:
-1. **What is happening** - explain the text plainly
-2. **What it reveals** - about God, Christ, man, sin, salvation, or the spiritual life
-3. **Spiritual application** - what does this mean for how we live and pray?
-4. **Personal connection** - speak directly to the hearer's interior life
+10. **Iconography connection**
+    - Include relevant Orthodox/Coptic iconography when it clarifies the topic.
+    - Explain the theology carried by composition, figures, gestures, inscriptions, colors, placement, and symbols.
+    - If no meaningful connection exists, say so briefly.
 
-Use the full passage text before explaining it. Do not assume the hearer has it memorized.
+11. **Personal spiritual contemplation**
+    - Invite inward examination, prayer, silence, repentance, or confession.
 
-### 6. Orthodox Theological Significance
-What does this passage reveal that is distinctly important to Orthodox theology?
-- The nature of Christ
-- Theosis and the healing of human nature
-- The sacramental life
-- Repentance and return
-- The Holy Spirit
-- The Church as the Body of Christ
+12. **Practical application for adult life**
+    - Concrete, honest, and non-generic.
+    - Broaden beyond the literal condition:
+      - greed includes money, time, attention, forgiveness, hospitality, control, possessiveness
+      - prayer includes dependence, attention, repentance, presence, listening, responsiveness
+      - suffering includes physical pain, loneliness, humiliation, grief, spiritual dryness, family burdens, hidden wounds, moral struggle
 
-Do not flatten this into generic Christian doctrine. Be Orthodox and specific.
+13. **Conclusion**
+    - Bring the burden home and end pointing to Christ, not the hearer's effort.
 
-### 7. Patristic Insight
-Include 1 to 3 patristic quotes or references that illuminate the passage.
+14. **Teaching guide**
+    - Teacher-facing, near the end.
+    - Organize by passage or major section using plain labels.
+    - Include: Ask, Emphasize, Watch for, Connect, Show.
+    - Do not use same-page note links or put slide/handout instructions in body captions.
 
-Rules:
-- Only use real, verifiable quotes with attribution (Father's name, work title)
-- If the exact quote is uncertain, paraphrase and note: *"St. [Name] consistently taught that..."*
-- Never invent or approximate a quote and present it as real
+15. **Discussion questions**
+    - 3-5 questions.
+    - Avoid yes/no and obvious-answer questions.
 
-Fathers most commonly cited for lesson content:
-- St. Athanasius (Incarnation, Christology)
-- St. Cyril of Alexandria (Christology, John's Gospel)
-- St. John Chrysostom (practical, pastoral, homiletical)
-- St. Basil the Great (ascetic life, Holy Spirit)
-- St. Gregory of Nyssa (mystical, theosis)
-- St. Macarius the Great (prayer, inner life)
-- St. Isaac the Syrian (stillness, compunction, mercy)
-- Pope Shenouda III (accessible, pastoral, Coptic)
-- Fr. Matthew the Poor / Matta el-Meskeen (deep, contemplative)
+16. **Glossary / reference terms**
+    - Define technical, patristic, liturgical, historical, Greek, Hebrew, Coptic, Syriac, or iconographic terms.
 
-### 8. Old Testament Links and Typology
-Where applicable, show how the passage fulfills or mirrors an Old Testament type:
-- Person (e.g. Joseph as a type of Christ)
-- Event (e.g. the bronze serpent as a type of the Cross)
-- Prophecy (e.g. Isaiah 53 fulfilled in the Passion)
-- Liturgical rite (e.g. the Passover lamb)
+17. **Sources and further reading**
+    - Separate primary sources, secondary academic sources, Coptic Orthodox / pastoral sources, iconography/image sources, and web sources.
 
-This section reinforces the unity of Scripture and Christ as the fulfillment of all things.
+18. **Optional closing prayer**
 
-### 9. Liturgical and Sacramental Connection
-Connect the passage to the life of the Church:
-- Which feast or fast does this speak to?
-- Is this passage used in the liturgy, the Agpeya, or a particular rite?
-- How does the Eucharist, Baptism, Repentance, or another sacrament illuminate the text?
-- What hymn or liturgical prayer echoes this theme?
-
-### 10. Personal Spiritual Contemplation
-A quieter, more interior section. Invite the hearer to sit with the passage personally.
-- A reflective question directed inward
-- A silence prompt or contemplative image
-- A brief prayer posture or invitation to confession
-
-### 11. Practical Application for Adult Life
-Concrete, honest, non-generic. What does this mean on Monday morning?
-- Name specific struggles, temptations, or patterns
-- Suggest a specific prayer practice, act of repentance, or change of habit
-- Do not close with vague exhortation ("let us all strive to...")
-
-### 12. Conclusion
-Bring the lesson's burden home. Restate the core claim in light of everything covered.
-End pointing to Christ, not to the hearer's effort.
-
-### 13. Discussion Questions
-3 to 5 questions. Mix of types:
-- One that opens the text to reflection
-- One that connects to personal experience
-- One that challenges comfortable assumptions
-- One that points toward action or prayer
-
-Avoid yes/no questions. Avoid questions with obvious answers.
-
-### 14. Closing Prayer (Optional)
-A short prayer that embodies the lesson's burden. Can be original or drawn from the
-Agpeya, liturgy, or a Father's writings.
-
----
-
-## Tone Guidelines
+## Tone guidelines
 
 | Do | Do not |
 |---|---|
 | Warm, clear, spiritually serious | Cold, academic, lecture-like |
 | Substantial and deep | Shallow or motivational |
 | Speak to the heart directly | Address only the intellect |
-| Name sin and struggle honestly | Soften or avoid hard truths |
+| Name sin and struggle honestly | Avoid hard truths |
 | Use specific Orthodox language | Use vague generic Christian language |
 | Let Scripture carry the weight | Over-explain or over-illustrate |
 
----
-
 ## Length
 
-A typical adult meeting lesson runs 35 to 50 minutes when taught.
-In written form this is roughly 1,500 to 3,000 words depending on depth.
+A typical adult meeting lesson runs 35-50 minutes when taught, usually 1,500-3,000 written words depending on depth. Let the topic dictate length. Do not pad.
 
-A discussion-heavy lesson can be shorter in content and longer in questions.
-A Scripture study can be longer in content with fewer discussion questions.
+## File naming
 
----
+Use lowercase, hyphens, no spaces, and two-digit numbering for series lessons.
 
-## File Naming
-
-```
+```text
 series-name/
 ├── overview.md
 ├── 01-lesson-title.md
-├── 02-lesson-title.md
+└── 02-lesson-title.md
 
 standalone/
-├── lesson-title.md
+└── lesson-title.md
 ```
-
-Use lowercase, hyphens, no spaces, two-digit numbering for series lessons.
