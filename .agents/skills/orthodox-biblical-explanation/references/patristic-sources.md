@@ -1,6 +1,6 @@
 # Patristic Reference Guide
 
-This file provides a working reference of the Church Fathers most commonly drawn upon when explaining Scripture from an Orthodox perspective. It is meant to help the skill stay grounded in real positions and avoid fabricating quotations or attributions. When uncertain about a Father's specific position, default to "the Fathers teach" or "the patristic tradition holds" rather than inventing a citation.
+This file provides a working reference of the Church Fathers most commonly drawn upon when explaining Scripture from an Orthodox perspective. It is meant to help the skill stay grounded in real positions and avoid fabricating quotations or attributions. When uncertain about a Father's specific position, do not invent a citation. Use "the patristic tradition holds" only when a real broad tradition is known; otherwise say that no verified source has been found yet or paraphrase without naming a Father.
 
 ## The Alexandrian School
 
@@ -123,6 +123,12 @@ The Coptic Orthodox Church holds the first three ecumenical councils (Nicaea 325
 Coptic theology is heir to the Alexandrian school and tends toward strong allegorical and typological reading. The Theotokos receives extensive Old Testament typological treatment in Coptic hymnography (the Theotokia for the days of the week).
 
 When working with passages where Christological formulation matters (the Council of Chalcedon's "in two natures"), the skill should be aware of the difference between Eastern Orthodox and Oriental Orthodox formulations and not import language that would be foreign to a Coptic Orthodox reader.
+
+## Direct quote gems
+
+Patristic material should not be all summary. When a lesson or explanation uses a substantive Father, ask whether a verified sentence or tightly connected excerpt would add authenticity, beauty, and weight. If yes, include it after the summary or paraphrase.
+
+A direct quote is useful only when it does interpretive work. Do not quote as ornament. First explain what the Father is teaching in plain language, then let the Father's own words sharpen, confirm, or deepen that point. If exact wording or source status is not verified, paraphrase instead.
 
 ## How to use this reference
 

@@ -9,6 +9,14 @@ Use this skill to identify and explain Orthodox, Coptic, Byzantine, Oriental Ort
 
 This skill owns visual identification and theological explanation. It supports lesson-writing skills, but it does not own the full lesson unless the user asks mainly about the icon.
 
+When a task asks for images for a Bible study or lesson, provide both sourcing and explanation: why this icon or visual belongs with this passage, what details in the icon teach the theology, and what rights/licensing status controls whether it can be embedded or should remain a source link.
+
+## Current online sourcing discipline
+
+For new Bible-study or lesson visual work, do not stop at old manifests or generic image search. Run a current source check when visuals matter. Prefer Coptic and Egyptian Christian iconography where it exists with clear context, especially CopticIconography.com articles that explain contemporary church icon cycles and theological programs. Use modern iconographer portfolios or parish galleries as interpretation and source leads, but treat reuse rights as unclear unless explicitly stated. Use Manar al-Athar, museums, libraries, monasteries, and Wikimedia Commons individual file pages for embeddable or well-documented assets when licensing is clear.
+
+For every recommended or embedded visual, record the source page, creator/owner when known, tradition/style, license or rights note, and a one-to-three sentence explanation of what the image teaches. A list of image links without theological explanation is not enough.
+
 ## Default workflow
 
 1. Inspect the actual image first when available.

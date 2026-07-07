@@ -43,6 +43,20 @@ Weak: "We should all be more faithful."
 
 Stronger: "Because the blind man receives sight before he fully understands who Christ is, the lesson teaches us to obey the light we have received instead of waiting until every question is answered."
 
+## Public-facing depth and prose bar
+
+For final or public-facing lessons, mechanical completeness is not enough. Read the lesson as a servant, teacher, and hearer.
+
+A strong lesson has:
+
+- **Scriptural insight:** the teaching follows the actual movement of the passage or doctrine, not a generic theme attached to it.
+- **Orthodox imagination:** Christology, the Church, repentance, worship, ascetical life, and sacramental meaning arise naturally where warranted.
+- **Spiritual depth:** each major section presses toward prayer, repentance, watchfulness, mercy, humility, worship, or union with Christ.
+- **Research sufficiency:** difficult claims, Fathers, liturgical references, historical context, iconography, language notes, and source-shape issues are checked against appropriate sources rather than filled from memory.
+- **Explained terms:** Greek, Hebrew, Coptic, Syriac, patristic, liturgical, iconographic, historical, and doctrinal terms are defined when a parish reader or servant may not know them.
+- **Beautiful prose and flow:** write in clear, reverent, flowing paragraphs. Avoid list-stacking when a paragraph should carry the thought. The prose should feel like a serious Orthodox teacher speaking with warmth and depth, not like a checklist filled in.
+- **No shallow filler:** remove any paragraph that could fit almost any lesson after swapping the title.
+
 ## Before drafting a full lesson
 
 Unless the user explicitly says to draft immediately, begin with a short research-and-direction pass:
@@ -104,7 +118,7 @@ For Church Fathers lessons, include surviving works and legacy by genre rather t
 - If exact wording is uncertain, paraphrase and say the Father teaches or emphasizes the theme rather than presenting quotation marks.
 - If using a modern Coptic Orthodox source that summarizes the Fathers, cite it as a modern pastoral source, not as the ancient Father directly.
 - Distinguish received liturgical attribution from modern historical certainty when needed.
-- Use direct quotes sparingly and only when verified wording strengthens the teaching.
+- Use direct quotes only when verified wording strengthens the teaching. Prefer a small quote gem that does interpretive work over a long decorative quotation.
 
 See `../shared-references/patristic-sources.md` and `../shared-references/source-confidence.md`.
 
@@ -126,6 +140,8 @@ Use iconography as theology in color, not decoration. For relevant lessons:
 - explain composition, figures, gestures, inscriptions, colors, placement, or symbols
 - distinguish iconographic tradition from historical documentation
 - cite image sources and rights where possible
+- prefer Coptic/Egyptian Christian visual sources when they are relevant and clearly sourced, then broaden to other Orthodox/Eastern Christian sources
+- explain why the image teaches this lesson; a list of image links is not enough
 - put teaching-use instructions in the final Teaching guide, not under the image caption
 
 If an actual image must be identified, use `orthodox-iconography`.

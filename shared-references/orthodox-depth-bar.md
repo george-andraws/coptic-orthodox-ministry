@@ -31,11 +31,13 @@
 
 ## Excellent
 
-- The whole artifact has a controlling spiritual burden.
-- Every major passage or section presses the hearer toward repentance, worship, prayer, discernment, mercy, or deeper union with Christ.
-- Difficult texts are handled honestly and pastorally.
-- The lesson or guide feels Orthodox in structure and imagination, not generic Christian with Orthodox decorations.
+- The whole artifact has a controlling spiritual burden that governs structure, sources, examples, and application.
+- Every major passage or section presses the hearer toward repentance, worship, prayer, discernment, mercy, humility, watchfulness, or deeper union with Christ.
+- Difficult texts are handled honestly and pastorally, with guardrails placed near the risky material instead of hidden at the end.
+- The lesson or guide feels Orthodox in structure, imagination, and spiritual instinct, not generic Christian with Orthodox decorations.
 - The Fathers are present with both interpretation and small verified phrases that make the tradition feel embodied rather than merely reported.
+- The prose has movement and beauty: the reader can follow a clear spiritual arc, technical terms are explained without condescension, and the writing invites prayer rather than merely displaying research.
+- Iconography, maps, manuscripts, or visual material deepen the reader's understanding when used; they are not ornamental fillers.
 
 ## Hollow citation rule
 

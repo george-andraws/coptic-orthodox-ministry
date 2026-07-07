@@ -21,6 +21,12 @@ Every explanation should be:
 - honest about historical, textual, and liturgical uncertainty
 - concrete in spiritual application
 
+## Depth and style bar
+
+For substantial passage explanations and reusable teaching prose, do not stop at correct outline coverage. The explanation should follow the actual movement of the text, define unfamiliar theological/liturgical/patristic/original-language terms, and move naturally toward prayer, repentance, worship, mercy, humility, watchfulness, or union with Christ.
+
+The prose should be reverent and beautiful without becoming ornate. Prefer flowing paragraphs over checklist-like fragments when unfolding the meaning of Scripture. Remove generic spiritual language that could fit any passage.
+
 ## When to use
 
 Use for:
@@ -76,6 +82,8 @@ Use the long form unless the user asks for a brief answer.
 
 9. **Iconography connection**
    - Include if the passage has a meaningful iconographic tradition.
+   - Prefer Coptic/Egyptian Christian visual sources first when available with clear context; otherwise broaden to other Orthodox/Eastern Christian sources.
+   - Explain what the icon or visual teaches. Do not provide image links without theological explanation.
    - Use `orthodox-iconography` for actual image identification.
 
 10. **Spiritual fruit**
@@ -101,6 +109,7 @@ Use the long form unless the user asks for a brief answer.
 - Cite work, book/chapter/section, homily number, or paragraph where possible.
 - If using a modern pastoral source such as Fr. Tadros Malaty or Pope Shenouda III, identify it as modern Coptic Orthodox/pastoral commentary, not ancient patristic witness.
 - If no relevant patristic material is found, do not force a hollow citation.
+- When a verified patristic sentence or tightly connected excerpt adds beauty, authenticity, and interpretive weight, include it as a quote gem after explaining the Father's point in plain language.
 
 ## Short mode
 

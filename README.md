@@ -13,7 +13,7 @@ This repo contains:
 - **Style guides** for lesson structure, tone, source confidence, iconography, and ministry communication
 - **Shared references** for patristic sourcing, Coptic Orthodox source discovery, and visual asset usage
 
-Everything is grounded in ancient Orthodox Christianity, especially the Coptic Orthodox tradition: Christ-centered, biblical, patristic, sacramental, and pastorally serious.
+Everything is grounded in ancient Orthodox Christianity, especially the Coptic Orthodox tradition: Christ-centered, biblical, patristic, sacramental, pastorally serious, visually source-aware, and written with spiritual depth rather than generic filler.
 
 ---
 
