@@ -14,7 +14,8 @@ This skill is intentionally public and reusable. It must not depend on a private
 - Use this skill for the full lesson artifact.
 - Use `orthodox-biblical-explanation` for Scripture exegesis when the user asks mainly about a passage.
 - Use `orthodox-iconography` when an icon, image, scene, inscription, or visual theology needs close interpretation.
-- Use the shared references in `../shared-references/` for patristic sourcing, depth bar, source confidence, and visual asset policy.
+- Use the bundled references and the repository's shared-reference library for patristic sourcing, depth bar, source confidence, visual asset policy, and the Orthodox literary voice standard.
+- For substantial Bible studies and publication-ready lesson prose, read `references/orthodox-literary-voice-synthesis.md` before drafting or revising.
 
 ## Core theological posture
 
