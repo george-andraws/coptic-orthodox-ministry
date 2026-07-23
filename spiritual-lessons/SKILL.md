@@ -14,7 +14,8 @@ This skill is intentionally public and reusable. It must not depend on a private
 - Use this skill for the full lesson artifact.
 - Use `orthodox-biblical-explanation` for Scripture exegesis when the user asks mainly about a passage.
 - Use `orthodox-iconography` when an icon, image, scene, inscription, or visual theology needs close interpretation.
-- Use the shared references in `../shared-references/` for patristic sourcing, depth bar, source confidence, and visual asset policy.
+- Use the bundled references and the repository's shared-reference library for patristic sourcing, depth bar, source confidence, visual asset policy, and the Orthodox literary voice standard.
+- For substantial Bible studies and publication-ready lesson prose, read `references/shared/orthodox-literary-voice-synthesis.md` before drafting or revising.
 
 ## Core theological posture
 
@@ -120,7 +121,7 @@ For Church Fathers lessons, include surviving works and legacy by genre rather t
 - Distinguish received liturgical attribution from modern historical certainty when needed.
 - Use direct quotes only when verified wording strengthens the teaching. Prefer a small quote gem that does interpretive work over a long decorative quotation.
 
-See `../shared-references/patristic-sources.md` and `../shared-references/source-confidence.md`.
+See `references/shared/patristic-sources.md` and `references/shared/source-confidence.md`.
 
 ## Liturgical and historical caution
 

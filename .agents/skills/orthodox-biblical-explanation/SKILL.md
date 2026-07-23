@@ -27,6 +27,8 @@ For substantial passage explanations and reusable teaching prose, do not stop at
 
 The prose should be reverent and beautiful without becoming ornate. Prefer flowing paragraphs over checklist-like fragments when unfolding the meaning of Scripture. Remove generic spiritual language that could fit any passage.
 
+For substantial Bible studies and publication-ready passage explanations, read `references/shared/orthodox-literary-voice-synthesis.md` before drafting or revising. Draw on its transferable virtues of clarity, contemplative depth, Cross-centered pastoral directness, sacramental vision, truth, and mercy. Do not imitate any named writer's recognizable voice; Scripture must remain visibly in control.
+
 ## When to use
 
 Use for:

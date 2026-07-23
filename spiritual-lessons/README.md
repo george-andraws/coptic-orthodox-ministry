@@ -16,7 +16,16 @@ into Claude, ChatGPT, or any LLM to generate new lessons in the same style.
 
 **Install as a skill (Claude Code, Cursor, Codex):**
 ```bash
-npx skills add george-andraws/coptic-orthodox-ministry
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/spiritual-lessons
+```
+
+This directory is the canonical authored source for the lesson skill. Generated shared reference bundles live under `references/shared/`; do not edit those generated copies directly.
+
+After editing this skill or any file in `../shared-references/`, run these commands from the repository root to regenerate and verify the packaging:
+
+```bash
+python3 scripts/sync_skill_packages.py --write
+python3 scripts/sync_skill_packages.py --check
 ```
 
 **Contributing:** See [CONTRIBUTING.md](../CONTRIBUTING.md)
