@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "mirror_root": ".agents/skills",
+  "alias_roots": [
+    "skills",
+    ".claude/skills",
+    ".codebuddy/skills",
+    ".cortex/skills",
+    ".factory/skills",
+    ".kilocode/skills",
+    ".mcpjam/skills",
+    ".mux/skills",
+    ".openhands/skills",
+    ".qwen/skills",
+    ".vibe/skills",
+    ".zencoder/skills"
+  ],
+  "packages": [
+    {
+      "name": "coptic-orthodox-spiritual-lessons",
+      "source": "spiritual-lessons",
+      "mirror_files": [
+        "SKILL.md",
+        "references/church-fathers-adult-meeting-lessons.md",
+        "style-guides/lesson-structure.md",
+        "style-guides/whatsapp-promo.md",
+        "theology-references/liturgical-framework.md",
+        "theology-references/theological-posture.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "orthodox-visual-assets.md",
+        "orthodox-literary-voice-synthesis.md"
+      ]
+    },
+    {
+      "name": "orthodox-biblical-explanation",
+      "source": "orthodox-biblical-explanation",
+      "mirror_files": [
+        "SKILL.md",
+        "examples/1-kings-13-example.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "orthodox-visual-assets.md",
+        "orthodox-literary-voice-synthesis.md"
+      ]
+    },
+    {
+      "name": "orthodox-iconography",
+      "source": "orthodox-iconography",
+      "mirror_files": [
+        "SKILL.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "orthodox-visual-assets.md"
+      ]
+    },
+    {
+      "name": "orthodox-outreach-communications",
+      "source": "outreach",
+      "mirror_files": [
+        "SKILL.md",
+        "templates/congregation-update.md"
+      ],
+      "shared_imports": []
+    }
+  ]
+}

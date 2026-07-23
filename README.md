@@ -13,6 +13,10 @@ This repo contains:
 - **Style guides** for lesson structure, tone, source confidence, iconography, and ministry communication
 - **Shared references** for patristic sourcing, Coptic Orthodox source discovery, and visual asset usage
 
+Canonical authored sources live only in the four top-level skill directories and [`shared-references/`](shared-references/). Generated mirrors under [`.agents/skills/`](.agents/skills/) and the alias roots under `skills/` plus tool-specific directories are rebuilt from the manifest; do not edit those generated copies directly.
+
+The repository intentionally does not use `skills-lock.json`: these local package mirrors are generated build artifacts, not independently installed dependencies. External users can still install any top-level skill through `npx skills add` as shown below.
+
 Everything is grounded in ancient Orthodox Christianity, especially the Coptic Orthodox tradition: Christ-centered, biblical, patristic, sacramental, pastorally serious, visually source-aware, and written with spiritual depth rather than generic filler.
 
 ---
@@ -56,6 +60,13 @@ npx skills add github.com/george-andraws/coptic-orthodox-ministry/outreach
 
 The skills will be available to compatible AI coding agents automatically.
 
+Shared reference bundles for standalone installs are generated into each package's `references/shared/` directory. If you change canonical files, regenerate before publishing or validating:
+
+```bash
+python3 scripts/sync_skill_packages.py --write
+python3 scripts/sync_skill_packages.py --check
+```
+
 ### Option C - Browse and reuse prepared content
 
 All lessons and series are in [`spiritual-lessons/series/`](spiritual-lessons/series/) and [`spiritual-lessons/standalone/`](spiritual-lessons/standalone/). Read them directly on GitHub, copy what you need, or adapt for your community.
@@ -70,20 +81,25 @@ coptic-orthodox-ministry/
 ├── README.md                        ← you are here
 ├── CONTRIBUTING.md                  ← how to contribute content or skills
 │
-├── spiritual-lessons/               ← Adult lessons and series
-│   ├── SKILL.md                     ← installable lesson-writing skill
-│   ├── references/                  ← lesson-specific references
+├── spiritual-lessons/               ← Canonical lesson skill source
+│   ├── SKILL.md                     ← authored lesson-writing skill
+│   ├── references/                  ← authored lesson-specific references
+│   │   └── shared/                  ← generated shared bundles for standalone install
 │   ├── system-prompts/              ← paste into any LLM
 │   ├── style-guides/                ← lesson structure and promo format
 │   ├── theology-references/         ← Orthodox doctrine and patristic approach
 │   ├── series/                      ← multi-lesson series with overviews
 │   └── standalone/                  ← single topical lessons
 │
-├── orthodox-biblical-explanation/   ← passage-exegesis support skill
-├── orthodox-iconography/            ← iconography and visual theology skill
-├── outreach/                        ← Orthodox outreach communications skill
-├── shared-references/               ← shared sourcing and quality references
-└── deacon-guides/                   ← Category 2 (coming)
+├── orthodox-biblical-explanation/   ← canonical passage-exegesis support skill
+├── orthodox-iconography/            ← canonical iconography and visual theology skill
+├── outreach/                        ← canonical Orthodox outreach communications skill
+├── shared-references/               ← canonical shared sourcing and quality references
+├── skill-packages.json              ← manifest for generated bundles, mirrors, and aliases
+├── scripts/sync_skill_packages.py   ← stdlib sync/check tool
+├── .agents/skills/                  ← generated package mirrors
+└── skills/                          ← generated aliases to .agents/skills/
+    ... plus other generated tool-specific alias roots
 ```
 
 ---
@@ -92,7 +108,7 @@ coptic-orthodox-ministry/
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the theological standards, file format, and submission process.
 
-Short version: content must be Orthodox, Christ-centered, patristically grounded, and practically useful. No generic Christian content. No invented patristic quotes.
+Short version: content must be Orthodox, Christ-centered, patristically grounded, and practically useful. No generic Christian content. No invented patristic quotes. Edit canonical source files only, then run the sync script before relying on generated mirrors.
 
 ---
 

@@ -2,6 +2,10 @@
 
 Thank you for wanting to contribute. This repo exists to serve the Church, and quality matters more than quantity. Please read this before submitting anything.
 
+Canonical authored files live in the four top-level skill directories and `shared-references/`. Generated files under `.agents/skills/`, `skills/`, the tool-specific alias roots, and each package's `references/shared/` directory must never be edited directly.
+
+Do not add `skills-lock.json`. This repository generates its local package mirrors from `skill-packages.json`; treating those same mirrors as independently installed dependencies creates conflicting ownership and stale hashes.
+
 ---
 
 ## Theological Standards (Required)
@@ -43,6 +47,30 @@ If you answered no to any of these, revise before submitting.
 ## File Format
 
 All content must be in **Markdown (`.md`)** format. This ensures it renders cleanly on GitHub, is searchable, and is usable by AI tools.
+
+## Generated Skill Packaging
+
+After changing any canonical skill file or shared reference, run:
+
+```bash
+python3 scripts/sync_skill_packages.py --write
+python3 scripts/sync_skill_packages.py --check
+```
+
+When adding or removing a file that must ship in a minimal agent package, update `skill-packages.json` in the same change. Shared material must be authored once in `shared-references/` and declared under the consuming package's `shared_imports`; never create or edit a package copy by hand.
+
+`--write` regenerates standalone shared bundles in `references/shared/`, rebuilds `.agents/skills/*`, and repairs the alias symlinks under `skills/`, `.claude/skills/`, `.codebuddy/skills/`, `.cortex/skills/`, `.factory/skills/`, `.kilocode/skills/`, `.mcpjam/skills/`, `.mux/skills/`, `.openhands/skills/`, `.qwen/skills/`, `.vibe/skills/`, and `.zencoder/skills/`.
+
+`--check` verifies that generated files and symlinks are clean and deterministic without making changes.
+
+For standalone installs, target the top-level subdirectory you want:
+
+```bash
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/spiritual-lessons
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-biblical-explanation
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-iconography
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/outreach
+```
 
 ### Lesson file structure
 
