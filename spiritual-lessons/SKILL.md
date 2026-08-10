@@ -16,6 +16,8 @@ This skill is intentionally public and reusable. It must not depend on a private
 - Use `orthodox-iconography` when an icon, image, scene, inscription, or visual theology needs close interpretation.
 - Use the bundled references and the repository's shared-reference library for patristic sourcing, depth bar, source confidence, visual asset policy, and the Orthodox literary voice standard.
 - For substantial Bible studies and publication-ready lesson prose, read `references/shared/orthodox-literary-voice-synthesis.md` before drafting or revising.
+- For substantial adult-meeting preparation, series planning, outline review, or slide storyboarding, read `references/adult-lesson-research-author-ownership-and-storyboards.md`.
+- When a lawfully licensed Accordance library could contribute Orthodox notes, patristic discovery, translation comparison, lexical orientation, geography, charts, parallels, or visuals, read `references/shared/accordance-and-licensed-bible-library-research.md`. Check actual application and module availability first.
 
 ## Core theological posture
 
@@ -60,15 +62,24 @@ A strong lesson has:
 
 ## Before drafting a full lesson
 
-Unless the user explicitly says to draft immediately, begin with a short research-and-direction pass:
+Unless the user explicitly says to draft immediately, begin with a research-and-direction pass:
 
-1. Identify the likely governing Scripture, feast, saint, doctrine, or pastoral burden.
-2. Name the strongest lesson angle: theological burden, practical virtue, liturgical hook, or Church Fathers connection.
-3. Ask only 2-4 clarifying questions that materially change the lesson.
-4. Recommend a default direction if the user wants to proceed without answering.
-5. Check whether iconography or visual material would deepen the lesson.
+1. Identify the likely governing Scripture, feast, saint, doctrine, pastoral need, audience, teaching time, date, and series context.
+2. Inspect relevant prior lessons, schedules, and source packets when available so the research preserves continuity and avoids duplication.
+3. Map several genuinely distinct teaching directions. Weight the strongest options, show which sources support them, and identify what is firm, traditional, contested, or thinly sourced.
+4. Ask only 2-4 clarifying questions that materially change the lesson, then recommend a default direction if the user wants to proceed without answering.
+5. Check whether iconography, maps, manuscripts, architecture, archaeology, or other visual material would deepen the lesson.
+6. Do not finalize the governing emphasis or narrative order for the teacher unless that decision has been explicitly delegated.
+
+When the request is to start or kick off substantial preparation, use `references/adult-lesson-research-author-ownership-and-storyboards.md` and create or offer a durable Markdown research packet. Research notebooks and preparer audio are optional, not mandatory.
 
 If the user asks for a quick announcement, promo, or short reflection, compress this step and proceed.
+
+## Series proposals and visual storyboards
+
+For a new or revised series, state the central spiritual question, pastoral need, audience, real teaching time, available dates, liturgical constraints, and overall status (`proposed`, `partially confirmed`, or `confirmed`). For every meeting, record a provisional heading, the controlling text or witness, its unique pastoral aim, the date, and the decision state. Clearly identify details that are still tentative instead of presenting an inferred schedule as settled.
+
+Build presentation storyboards only after the lesson burden and notes are settled unless the user explicitly asks for exploratory visual concepts. Use one coherent visual language, one dominant image concept per frame, brief screen copy, source and rights tracking, and an explicit negative visual constraint wherever an image could imply doctrinal error, invented history, disrespectful iconography, or unjustified archaeological certainty.
 
 ## Default full-lesson structure
 

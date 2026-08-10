@@ -29,6 +29,8 @@ The prose should be reverent and beautiful without becoming ornate. Prefer flowi
 
 For substantial Bible studies and publication-ready passage explanations, read `references/shared/orthodox-literary-voice-synthesis.md` before drafting or revising. Draw on its transferable virtues of clarity, contemplative depth, Cross-centered pastoral directness, sacramental vision, truth, and mercy. Do not imitate any named writer's recognizable voice; Scripture must remain visibly in control.
 
+When a lawfully licensed Accordance library could materially help with Orthodox bridge notes, patristic discovery, translation comparison, lexical orientation, geography, charts, parallels, or visuals, read `references/shared/accordance-and-licensed-bible-library-research.md`. Check the user's actual application and module availability first. Treat search results as leads, record relocatable source details, and never imply that an unavailable module was searched.
+
 ## When to use
 
 Use for:
