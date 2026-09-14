@@ -19,6 +19,7 @@ MANIFEST = {
             "source": "spiritual-lessons",
             "mirror_files": [
                 "SKILL.md",
+                "references/adult-lesson-research-author-ownership-and-storyboards.md",
                 "references/church-fathers-adult-meeting-lessons.md",
                 "style-guides/lesson-structure.md",
                 "style-guides/whatsapp-promo.md",
@@ -28,6 +29,7 @@ MANIFEST = {
             "shared_imports": [
                 "patristic-sources.md",
                 "source-confidence.md",
+                "accordance-and-licensed-bible-library-research.md",
                 "orthodox-visual-assets.md",
                 "orthodox-literary-voice-synthesis.md",
             ],
@@ -42,6 +44,7 @@ MANIFEST = {
             "shared_imports": [
                 "patristic-sources.md",
                 "source-confidence.md",
+                "accordance-and-licensed-bible-library-research.md",
                 "orthodox-visual-assets.md",
                 "orthodox-literary-voice-synthesis.md",
             ],
@@ -87,6 +90,7 @@ MANIFEST = {
 
 AUTHORED_SOURCE_FILES = {
     "spiritual-lessons/SKILL.md": "Read references/shared/patristic-sources.md\n",
+    "spiritual-lessons/references/adult-lesson-research-author-ownership-and-storyboards.md": "adult lesson research\n",
     "spiritual-lessons/references/church-fathers-adult-meeting-lessons.md": "church fathers\n",
     "spiritual-lessons/style-guides/lesson-structure.md": "lesson structure\n",
     "spiritual-lessons/style-guides/whatsapp-promo.md": "whatsapp promo\n",
@@ -99,6 +103,7 @@ AUTHORED_SOURCE_FILES = {
     "outreach/templates/congregation-update.md": "template\n",
     "shared-references/patristic-sources.md": "shared patristic sources\n",
     "shared-references/source-confidence.md": "shared source confidence\n",
+    "shared-references/accordance-and-licensed-bible-library-research.md": "shared licensed library research\n",
     "shared-references/orthodox-visual-assets.md": "shared visual assets\n",
     "shared-references/orthodox-literary-voice-synthesis.md": "shared literary voice\n",
 }

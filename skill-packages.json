@@ -21,6 +21,7 @@
       "source": "spiritual-lessons",
       "mirror_files": [
         "SKILL.md",
+        "references/adult-lesson-research-author-ownership-and-storyboards.md",
         "references/church-fathers-adult-meeting-lessons.md",
         "style-guides/lesson-structure.md",
         "style-guides/whatsapp-promo.md",
@@ -30,6 +31,7 @@
       "shared_imports": [
         "patristic-sources.md",
         "source-confidence.md",
+        "accordance-and-licensed-bible-library-research.md",
         "orthodox-visual-assets.md",
         "orthodox-literary-voice-synthesis.md"
       ]
@@ -44,6 +46,7 @@
       "shared_imports": [
         "patristic-sources.md",
         "source-confidence.md",
+        "accordance-and-licensed-bible-library-research.md",
         "orthodox-visual-assets.md",
         "orthodox-literary-voice-synthesis.md"
       ]

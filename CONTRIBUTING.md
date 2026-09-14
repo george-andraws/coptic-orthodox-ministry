@@ -135,16 +135,19 @@ Every series needs an `overview.md` with:
 ```markdown
 # Series Title
 
-## Core Concept
-[What is this series about at its heart?]
+## Central Spiritual Question
+[What governing question or burden holds the series together?]
 
 ## Spiritual Need It Addresses
 [Why does this series matter? What problem or hunger does it meet?]
 
+## Audience, Timing, and Constraints
+[Audience, teaching length, available dates, and liturgical/calendar constraints. Mark unverified details as proposed.]
+
 ## Sessions
-| # | Title | Scripture | Status |
-|---|-------|-----------|--------|
-| 1 | ...   | ...       | Done / Draft / Planned |
+| # | Title | Scripture / source | Distinct burden | Date | Status |
+|---|-------|--------------------|-----------------|------|--------|
+| 1 | ...   | ...                | ...             | ...  | Proposed / Confirmed / Done |
 
 ## Why This Series Matters
 [A short paragraph on the spiritual urgency or opportunity of this series]

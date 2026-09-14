@@ -11,7 +11,7 @@ This repo contains:
 - **System prompts** you can paste into Claude, ChatGPT, Gemini, or any LLM
 - **Prepared lessons, series, and study materials** ready to use or adapt
 - **Style guides** for lesson structure, tone, source confidence, iconography, and ministry communication
-- **Shared references** for patristic sourcing, Coptic Orthodox source discovery, and visual asset usage
+- **Shared references** for patristic sourcing, Coptic Orthodox source discovery, licensed Bible-library research, and visual asset usage
 
 Canonical authored sources live only in the four top-level skill directories and [`shared-references/`](shared-references/). Generated mirrors under [`.agents/skills/`](.agents/skills/) and the alias roots under `skills/` plus tool-specific directories are rebuilt from the manifest; do not edit those generated copies directly.
 
@@ -94,7 +94,7 @@ coptic-orthodox-ministry/
 ├── orthodox-biblical-explanation/   ← canonical passage-exegesis support skill
 ├── orthodox-iconography/            ← canonical iconography and visual theology skill
 ├── outreach/                        ← canonical Orthodox outreach communications skill
-├── shared-references/               ← canonical shared sourcing and quality references
+├── shared-references/               ← canonical sourcing, licensed-library, visual, and quality references
 ├── skill-packages.json              ← manifest for generated bundles, mirrors, and aliases
 ├── scripts/sync_skill_packages.py   ← stdlib sync/check tool
 ├── .agents/skills/                  ← generated package mirrors
