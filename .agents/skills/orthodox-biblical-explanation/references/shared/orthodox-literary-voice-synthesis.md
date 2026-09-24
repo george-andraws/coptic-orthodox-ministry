@@ -1,8 +1,8 @@
 # Orthodox Literary Voice Synthesis for Bible Studies
 
-Use this reference when drafting or revising Bible-study prose, especially when the reader needs writing that is beautiful, spiritually deep, and closely connected to Scripture. It distills transferable craft from C. S. Lewis, Fr. Matthew the Poor (Matta El-Meskeen), Fr. Bishoy Kamel, Fr. Alexander Schmemann, and kindred Orthodox spiritual writers.
+Use this reference when drafting or revising New Testament Bible-study prose, especially when the lesson author's asks for beautiful, spiritually deep, reader-connecting writing. It distills transferable craft from C. S. Lewis, Fr. Matthew the Poor (Matta El-Meskeen), Fr. Bishoy Kamel, Fr. Alexander Schmemann, and kindred Orthodox spiritual writers.
 
-This is a synthesis of virtues, not a formula and not permission to imitate any writer's recognizable surface voice. The guide must have a natural contemporary voice of its own. Scripture, Orthodox truth, and spiritual usefulness govern every literary choice.
+This is a synthesis of virtues, not a formula and not permission to mimic any writer's recognizable surface voice. The guide must have a natural contemporary voice of its own. Scripture, Orthodox truth, and spiritual usefulness govern every literary choice.
 
 ## Order of authority
 
@@ -28,13 +28,13 @@ Lewis's strength must never flatten mystery into an apologetic mechanism. Clarit
 
 ### Fr. Matthew the Poor: the Word received as Spirit and life
 
-Draw from Fr. Matta's scriptural and contemplative progression:
+Draw from Fr. Matta's scriptural and contemplative movement:
 
 - Treat Scripture as God's living word addressed to the Church and received through the illumination of the Holy Spirit, not as material placed at a scholarly distance.
 - Build sustained theological progression: word or verse, revealed truth, communion with God, inner liberation, and transformed life.
 - Let doctrine reach the conscience. Knowledge should become participation, prayer, freedom from sin, and life in Christ.
 - Preserve theological seriousness without allowing dense chains of abstraction to obscure the verse.
-- Let explanation mature into contemplation naturally. Do not bolt a devotional paragraph onto an academic one.
+- Let the explanation mature into contemplation naturally. Do not bolt on a devotional paragraph after an academic one.
 
 The prose may carry intensity and breadth, but every claim must remain traceable to the passage and accurately Orthodox.
 
@@ -43,11 +43,11 @@ The prose may carry intensity and breadth, but every claim must remain traceable
 Draw from Fr. Bishoy's pastoral immediacy:
 
 - Move readily from Scripture to Christ's Cross, the worship and sacraments of the Church, self-examination, prayer, and concrete service.
-- Address recognizable sins and pressures directly: self-importance, resentment, comfort, fear, reputation, hidden selfishness, and weariness in service.
+- Address recognizable sins and pressures directly: self-importance, resentment, comfort, fear, reputation, hidden selfishness, weariness in service.
 - Join conviction to joy. The Cross is sacrifice, victory, freedom, love, and the road to resurrection.
 - Let typology make Scripture vivid, but verify the connection and distinguish the biblical text, received Orthodox reading, and pastoral meditation. Never force every object into an allegory.
 - When fitting, allow explanation to become a brief prayer or direct appeal to the soul. Use this selectively so it remains sincere rather than becoming a repeated device.
-- Make ecclesial application tangible: altar, Eucharist, Baptism, prayer, service, and the person for whom Christ died.
+- Make ecclesial application tangible: altar, Eucharist, baptism, prayer, service, and the person for whom Christ died.
 
 Fr. Bishoy's directness should produce repentance and hope, never caricature people or turn spiritual diagnosis into accusation.
 
@@ -117,7 +117,7 @@ Reject prose that:
 
 ## Final literary-spiritual test
 
-Read the lead, one major passage explanation, and the spiritual application aloud. Confirm:
+Read the lead, one major passage explanation, and Spiritual Fruit aloud. Confirm:
 
 1. The prose sounds natural rather than imitative.
 2. The text of Scripture remains visibly in control.
@@ -128,12 +128,12 @@ Read the lead, one major passage explanation, and the spiritual application alou
 7. The reader is addressed with both truth and mercy.
 8. At least one memorable sentence has been earned by close explanation rather than manufactured for effect.
 
-## Sources reviewed for this synthesis
+## Sources reviewed for the synthesis
 
-- C. S. Lewis writing principles summarized with quotations from his correspondence in David C. Downing, “The Sound and Savor of Words: Lewis on the Art of Writing”: <https://www.cslewis.com/the-sound-and-savor-of-words-lewis-on-the-art-of-writing/>
+- C. S. Lewis writing principles summarized with quotations from his correspondence in David C. Downing, “The Sound and Savor of Words: Lewis on the Art of Writing,” official C. S. Lewis site: <https://www.cslewis.com/the-sound-and-savor-of-words-lewis-on-the-art-of-writing/>
 - Fr. Matthew the Poor, *The Holy Spirit and the Word*, Monastery of St. Macarius: <https://www.stmacariusmonastery.org/old/en0518.pdf>
 - Fr. Bishoy Kamel, *The Cross* (Arabic source text), author archive: <http://www.fatherbishoykamel.org/Writings.aspx>
 - Fr. Bishoy Kamel, “The Book of Exodus: Our Journey to Canaan,” Coptic Orthodox Diocese of the Midlands: <https://ukmidcopts.org/resources/spiritual-articles/the-book-of-exodus-our-journey-to-canaan/>
 - Fr. Alexander Schmemann, *For the Life of the World*, especially the preface and opening chapter on humanity, food, worship, and the life of the world.
 
-These sources inform the craft standard. They are not automatically reader-facing citations for an unrelated Bible-study guide.
+These sources inform craft standards. They are not automatically reader-facing citations for an unrelated Bible-study guide.

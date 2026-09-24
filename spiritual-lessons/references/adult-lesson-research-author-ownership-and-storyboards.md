@@ -1,67 +1,69 @@
 # Adult-Lesson Research, Author Ownership, and Visual Storyboards
 
-Use this reference for substantial Orthodox adult-meeting lesson research, deep dives, outline review, series proposals, and the handoff from settled teaching notes to a visual deck.
+Use this reference for Coptic Orthodox adult-meeting lesson research, deep dives, outline review, and the handoff from settled teaching notes to a visual deck plan.
 
-## Protect the author's ownership of the lesson arc
+Adapted on 2026-08-09 from reusable workflow ideas in `pmansour/general-meeting-prep`, commit `aaa2b1305f1d36f4b64e367db877159588baca0c`. The wording and workflow here are the lesson author's-specific and do not import Peter-specific tools, paths, accounts, feeds, or content.
 
-Research should expand and clarify the lesson author's choices before it narrows them. Unless the user asks the assistant to choose the final arc:
+## Protect the lesson author's ownership of the lesson arc
+
+Research should expand and clarify the lesson author's choices before it narrows them. Unless the lesson author's asks the assistant to choose the final arc:
 
 - map the strongest plausible burdens and tensions;
 - show which sources support each direction;
 - identify what is firm, traditional, contested, or thinly sourced;
 - recommend the few strongest directions and explain why;
 - do not quietly turn the research packet into a finished outline;
-- after the author settles the burden, review and strengthen the notes rather than replacing the author's voice by default.
+- after the lesson author's settles the burden, review and strengthen his notes rather than replacing his voice by default.
 
-One spiritually weighty direction may deserve much more space than several secondary ideas.
+Asymmetry is healthy. One spiritually weighty direction may deserve far more space than several secondary ideas.
 
 ## Initial research handoff
 
-For a substantial lesson, capture:
+For a substantial new lesson, capture:
 
-1. **Preparation brief:** topic/passage/person, series placement, date, teaching time, audience, pastoral need, primary Scripture, constraints, and existing instincts.
-2. **Local continuity:** series overview, schedule, neighboring lessons, prior research, confirmed vocabulary, and boundaries that prevent duplication.
-3. **Research map:** Scripture, primary and near-primary witnesses, Fathers, Coptic/liturgical reception, modern scholarship, historical setting, and meaningful visual evidence.
-4. **Interpretive cautions:** disputed history, later tradition, translation issues, pastoral distortions, and missing evidence.
-5. **Direction menu:** normally five to ten genuinely distinct teaching directions, with the strongest few clearly weighted.
+1. **Preparation brief:** topic/passage/person, series placement, date, teaching time, audience, pastoral need, primary Scripture, constraints, and the lesson author's existing instincts.
+2. **Local continuity:** applicable a Markdown knowledge base series overview, schedule, neighboring lessons, prior research, confirmed vocabulary, and boundaries that prevent duplication.
+3. **Research map:** Scripture, primary/near-primary witnesses, Fathers, Coptic/liturgical reception, modern scholarship, historical setting, and meaningful visual evidence.
+4. **Interpretive cautions:** disputed history, later tradition, translation issues, common pastoral distortions, and missing evidence.
+5. **Direction menu:** normally 5-10 genuinely distinct teaching directions, with the strongest few clearly weighted.
 6. **Selected source packet:** a moderate set that earns its place rather than an exhaustive bibliography.
 
 For each candidate direction, use:
 
 ```text
-Candidate emphasis:
-Pastoral reason to teach it:
-Question of faith or Christian practice:
-Where adults may feel this issue:
-Evidence that supports it:
-Confidence level and caveat:
-Material intentionally deferred:
+Direction / possible story beat:
+Why it matters:
+Doctrine or spiritual question:
+Adult-life pressure point:
+Best source anchors:
+Source strength and caution:
+What this direction would leave for another lesson:
 ```
 
-Do not inflate the menu with generic virtues or several versions of the same burden.
+Do not inflate the menu with generic virtues or several rephrasings of the same burden.
 
 ## Durable research packet
 
-When the user asks to begin lesson preparation rather than merely brainstorm in chat, offer or create a durable Markdown research packet unless the user asks not to save it. Give the file a clear lesson-specific name and include a recognizable research suffix, for example `topic-research-brief.md`.
+When the lesson author's asks to start, begin, or kick off lesson preparation rather than merely brainstorm in chat, save the research phase as a durable a Markdown knowledge base artifact unless he explicitly asks not to save it. Use the existing series or standalone lesson folder and a descriptive filename ending in `-initial-research.md` or `-research-packet.md`.
 
-Include:
+The packet should contain:
 
 - preparation brief and series/date context;
-- continuity findings and confirmed boundaries;
+- local continuity findings and confirmed boundaries;
 - weighted direction menu;
 - selected source packet with evidence roles and cautions;
-- licensed-library coverage status when relevant;
+- Accordance/licensed-library coverage status when relevant;
 - interpretive tensions, unresolved questions, and material gaps;
-- chosen or still-open direction status;
-- the next decision rather than a silently completed outline.
+- the lesson author's chosen or still-open direction status;
+- clear next decision rather than a silently completed outline.
 
-If NotebookLM or another research notebook is used, record its title/link, intended source scope, uploaded source scope, and failed or excluded uploads. If preparation audio is generated, record its role and link separately. Neither a research notebook nor audio is mandatory.
+If NotebookLM is actually used, record the notebook title/link, intended source scope, uploaded source scope, and failed or excluded uploads. If preparation audio is generated, record its role and link separately. Neither NotebookLM nor audio is required for a normal research packet.
 
-Preserve and update existing research artifacts rather than creating competing packets for the same lesson.
+Preserve existing research artifacts and update them carefully rather than creating parallel competing packets for the same lesson.
 
 ## Series proposal discipline
 
-For a new or revised series, state:
+For a new or revised adult-meeting series, state explicitly:
 
 ```text
 Series title:
@@ -73,30 +75,34 @@ Liturgical and calendar constraints:
 Primary Scripture, patristic, historical, or doctrinal anchors:
 Status: proposed | partially confirmed | confirmed
 
-Meeting | Provisional heading | Unique pastoral aim | Controlling text or witness | Date | Decision state
+Session | Working title | Primary Scripture/source | Distinct burden | Date | Status
 ```
 
-Mark claims, dates, titles, and session placement as confirmed or proposed. Do not infer a complete schedule from one topic. Each session must earn a distinct place while advancing the central spiritual question.
+Mark each claim, date, title, and session placement as confirmed or proposed. Do not infer a complete schedule from one topic. Each session must earn a distinct place while advancing the central spiritual question; avoid repetitive burdens disguised by different titles.
+
+## Optional source-grounded preparation audio
+
+When the lesson author's explicitly asks for NotebookLM Audio Overview or another preparer-immersion audio, frame it as research support rather than a finished sermon or lesson outline. Use only the selected sources and ask the audio to distinguish direct source claims, firm history, later tradition, contested claims, named interpretation, and reasonable synthesis. Keep the Coptic Orthodox frame governing, avoid fake banter, fake personal experiences, melodrama, forced disagreement, and exaggerated hooks, and end with the strongest tensions, teaching possibilities, cautions, and questions the lesson author's should sit with. Do not let the audio choose the final lesson arc unless the lesson author's asks it to.
 
 ## Deep-dive handoff
 
-When the author selects one or more threads, produce focused packets with:
+When the lesson author's selects one or more threads, produce focused packets with:
 
 - controlling Scripture and primary witnesses;
 - verified quotations or tightly attributed paraphrases;
 - theological and spiritual stakes;
 - concrete adult-life applications;
-- possible personal-story openings without inventing anyone's experience;
-- questions to sit with before outlining;
+- possible personal-story openings without inventing the lesson author's experience;
+- questions the lesson author's should sit with before outlining;
 - evidence cautions and genuine disagreements;
-- optional research-notebook or preparer-audio prompt only when requested.
+- optional NotebookLM or audio-preparation prompt only when requested.
 
-## Review notes rather than rewriting by default
+## Review the lesson author's notes instead of rewriting by default
 
 Evaluate:
 
 - Does one spiritual burden carry the lesson?
-- Does each section advance a coherent line of thought instead of becoming a catalog of events?
+- Does the sequence form a story or argument rather than a chronology dump?
 - Do history, doctrine, Scripture, and adult spiritual life reinforce one another?
 - Is Christ and life in the Church central rather than appended?
 - Does the material fit the real teaching time?
@@ -105,7 +111,7 @@ Evaluate:
 - Are personal-story openings natural and optional?
 - Has generic AI cadence, slogan stacking, melodrama, and over-polish been removed?
 
-Return feedback in this order:
+Return review feedback in this order:
 
 ```text
 Strongest part:
@@ -117,51 +123,46 @@ Possible personal-story slots:
 Recommended final burden:
 ```
 
-Rewrite only when requested, or when a small example is needed to demonstrate a correction.
-
-## Optional source-grounded preparation audio
-
-When the user explicitly asks for a research-notebook audio overview or another preparer-immersion audio, frame it as research support rather than a finished sermon.
-
-Use only the selected sources. Distinguish direct source claims, firm history, later tradition, contested claims, named interpretation, and reasonable synthesis. Keep the Coptic Orthodox frame governing. Avoid fake banter, fake personal experience, melodrama, forced disagreement, and exaggerated hooks. End with the strongest tensions, teaching possibilities, cautions, and questions the author should sit with. Do not let the audio choose the final lesson arc unless asked.
+Rewrite only when the lesson author's asks, or when a bounded correction is needed to demonstrate the fix.
 
 ## Visual-first storyboard contract
 
-Build a storyboard only after the lesson burden and notes are settled, unless the user explicitly asks for exploratory visual concepts earlier.
+Build a storyboard only after the lesson burden and notes are settled, unless the lesson author's explicitly asks for exploratory visual concepts earlier.
 
-Choose one coherent visual language for the deck: Coptic/Orthodox iconography, manuscript, architectural, cartographic, archaeological, symbolic, or another justified system. Keep the complete lesson notes off the screen; the slides should function as visual companions to the spoken teaching.
+Choose one coherent visual language for the whole deck: Coptic/Orthodox iconography, manuscript, architectural, cartographic, archaeological, symbolic, or another justified system. Treat the lesson notes as speaker notes, not on-slide copy.
 
 For each slide, record:
 
 ```text
-Frame heading:
-Associated teaching movement:
-Job this frame must accomplish live:
-Primary image concept:
-Text permitted on screen:
-Verified citation or caption, if needed:
-How the presenter notes develop this frame:
-Attribution, tradition, and reuse status:
-Build instruction:
-Generative visual seed, only when appropriate:
-Forbidden implication or depiction:
+Slide title:
+Lesson section:
+Purpose in the live lesson:
+One dominant visual:
+Minimal on-slide text:
+Verified quote or caption, if needed:
+Relationship to speaker notes:
+Source, creator, tradition, and rights status:
+Production note:
+Image prompt seed, only if generation is appropriate:
+Do-not-show guardrail:
 ```
 
-The final field is mandatory whenever a metaphor, generated image, diagram, reconstruction, or icon-like composition could communicate doctrinal error, historical fiction, irreverent iconography, or confidence beyond the archaeological evidence.
+The `Do-not-show guardrail` is mandatory whenever a visual metaphor, generated image, diagram, reconstruction, or icon-like composition could imply false doctrine, false history, disrespectful iconography, or archaeological certainty the evidence does not support.
 
 ## Storyboard review gate
 
 Before generating a deck, confirm:
 
-- the visual progression matches the approved teaching progression;
-- each frame is built around a single image concept;
-- spoken explanation carries the depth while screen copy stays brief and legible;
-- every quotation has been checked against its source;
-- the chosen visual grammar remains consistent from opening through conclusion;
-- sacred imagery is handled reverently, and generated art is never passed off as canonical iconography;
-- maps, diagrams, and reconstructed scenes have attribution and appropriate uncertainty labels;
-- reuse permission or rights status is documented;
-- production guidance gives enough direction without prescribing one rendering method;
-- each visually sensitive frame states what it must not imply or depict.
+- the sequence follows the settled lesson arc;
+- every slide has one primary visual idea;
+- slides accompany rather than summarize the speaker notes;
+- on-slide text is minimal and readable;
+- quotations are exact and verified;
+- the deck uses one coherent visual system;
+- iconographic language is reverent and not generated as if canonical when it is not;
+- maps, charts, and reconstructions are sourced and qualified;
+- rights status is recorded;
+- the production agent has enough detail without being forced into one rendering technique;
+- every doctrinally risky visual has a clear do-not-show guardrail.
 
-If the user asks for a presentation file, pass the approved storyboard to the presentation-production workflow and verify the rendered deck, not only its source.
+If the lesson author's asks for the actual PowerPoint, pass the approved storyboard to the relevant PowerPoint skill as the production specification and verify the rendered deck, not just the source file.

@@ -2,7 +2,7 @@
 
 Thank you for wanting to contribute. This repo exists to serve the Church, and quality matters more than quantity. Please read this before submitting anything.
 
-Canonical authored files live in the four top-level skill directories and `shared-references/`. Generated files under `.agents/skills/`, `skills/`, the tool-specific alias roots, and each package's `references/shared/` directory must never be edited directly.
+Canonical authored files live in the top-level skill directories and `shared-references/`. Generated files under `.agents/skills/`, `skills/`, the tool-specific alias roots, and each package's `references/shared/` directory must never be edited directly.
 
 Do not add `skills-lock.json`. This repository generates its local package mirrors from `skill-packages.json`; treating those same mirrors as independently installed dependencies creates conflicting ownership and stale hashes.
 
@@ -69,6 +69,9 @@ For standalone installs, target the top-level subdirectory you want:
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/spiritual-lessons
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-biblical-explanation
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-iconography
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-apocalyptic-exegesis
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-shared-references
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/exact-scripture-speaker-ledger
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/outreach
 ```
 

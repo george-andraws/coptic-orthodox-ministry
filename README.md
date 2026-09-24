@@ -50,13 +50,18 @@ Install the main lesson skill:
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/spiritual-lessons
 ```
 
-Optional supporting skills:
+Supporting skills and portable reference packages:
 
 ```bash
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-biblical-explanation
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-apocalyptic-exegesis
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-iconography
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/orthodox-shared-references
+npx skills add github.com/george-andraws/coptic-orthodox-ministry/exact-scripture-speaker-ledger
 npx skills add github.com/george-andraws/coptic-orthodox-ministry/outreach
 ```
+
+Each install target is self-contained: its referenced reusable instructions are shipped in the package or in `references/shared/`. The public packages deliberately omit personal vault paths, calendars, document IDs, delivery channels, provider settings, and other machine-specific production workflow details.
 
 The skills will be available to compatible AI coding agents automatically.
 
@@ -93,6 +98,9 @@ coptic-orthodox-ministry/
 │
 ├── orthodox-biblical-explanation/   ← canonical passage-exegesis support skill
 ├── orthodox-iconography/            ← canonical iconography and visual theology skill
+├── orthodox-apocalyptic-exegesis/    ← canonical apocalyptic Scripture support skill
+├── orthodox-shared-references/       ← portable shared standards reference package
+├── exact-scripture-speaker-ledger/   ← byte-exact Scripture quotation ledger skill
 ├── outreach/                        ← canonical Orthodox outreach communications skill
 ├── shared-references/               ← canonical sourcing, licensed-library, visual, and quality references
 ├── skill-packages.json              ← manifest for generated bundles, mirrors, and aliases

@@ -1,6 +1,21 @@
 # Patristic Reference Guide
 
-This file provides a working reference of the Church Fathers most commonly drawn upon when explaining Scripture from an Orthodox perspective. It is meant to help the skill stay grounded in real positions and avoid fabricating quotations or attributions. When uncertain about a Father's specific position, do not invent a citation. Use "the patristic tradition holds" only when a real broad tradition is known; otherwise say that no verified source has been found yet or paraphrase without naming a Father.
+This file provides a working reference of the Church Fathers most commonly drawn upon when explaining Scripture from an Orthodox perspective. It is meant to help the skill stay grounded in real positions and avoid fabricating quotations or attributions. When uncertain about a Father's specific position, default to "the Fathers teach" or "the patristic tradition holds" rather than inventing a citation.
+
+the lesson author's specifically wants Bible-study patristic work to draw from a broader set of Fathers than the usual narrow Chrysostom/Athanasius/Cyril lane. Include the early apologists, Latin Fathers, and modern Coptic Orthodox pastoral fathers below when they genuinely illuminate the passage.
+
+## Apostolic, Apologetic, and Early Catholic Witnesses
+
+Use these Fathers for apostolic rule of faith, canon-adjacent interpretation, apologetics, early Christology, martyrdom, ecclesiology, and typology.
+
+**St. Justin Martyr (c. 100 to 165)**
+Second-century apologist and martyr. Strong for Christological readings of Old Testament prophecy, the Logos, worship, Eucharistic witness, and early Christian apologetics. Useful for showing how the early Church read Scripture as fulfilled in Christ.
+
+**St. Irenaeus of Lyons (c. 130 to 202)**
+Bishop of Lyons and major anti-Gnostic theologian. "Against Heresies" and "Demonstration of the Apostolic Preaching" are especially useful for apostolic tradition, recapitulation in Christ, creation, incarnation, salvation history, and the unity of Old and New Testaments.
+
+**St. Hippolytus of Rome (c. 170 to 235)**
+Early theologian, biblical commentator, and witness to liturgical tradition. Useful for Daniel, typology, Pascha themes, ecclesial order, and early Christian worship. Cite with source awareness because attribution and authorship questions exist around parts of the Hippolytan corpus.
 
 ## The Alexandrian School
 
@@ -20,6 +35,9 @@ Successor to Origen at the Catechetical School of Alexandria. Blind from age fou
 
 **Clement of Alexandria (c. 150 to 215)**
 Predecessor of Origen. "Stromata," "Paedagogus," "Protrepticus." More philosophical than exegetical, but useful for the integration of faith and Hellenic thought.
+
+**St. Dionysius of Alexandria (d. 264)**
+Patriarch of Alexandria and disciple in the Alexandrian theological stream. Useful for early Alexandrian pastoral theology, controversy-handling, and the continuity of Alexandrian witness before Athanasius. When the lesson author's says "St. Dionysius" in this Bible-study context, default to St. Dionysius of Alexandria unless the topic clearly indicates Dionysius the Areopagite or the later Dionysian corpus.
 
 ## The Antiochene School
 
@@ -86,6 +104,12 @@ One of the deepest Christological and exegetical minds of the Church. "Ambigua,"
 
 Recognized in both Eastern and Oriental Orthodox traditions, though with some distinctions in reception.
 
+**St. Cyprian of Carthage (c. 200 to 258)**
+Bishop and martyr. Strong for ecclesiology, unity of the Church, repentance after sin, martyrdom, baptismal and pastoral discipline, and the bishop's pastoral responsibility. Useful when a passage concerns the Church as body, confession under pressure, discipline, or reconciliation.
+
+**St. Hilary of Poitiers (c. 310 to 367)**
+Latin Father and defender of Nicene faith. Use for Trinitarian and Christological clarity, especially against Arian readings. the lesson author's "St. Hillary Pointers" should be understood as St. Hilary of Poitiers.
+
 **St. Jerome (c. 347 to 420)**
 Translator of the Vulgate. Massive exegetical output: commentaries on most of the prophets, the Psalms, the Pauline epistles, and others. Bridge between Hebrew scholarship and the Christian tradition. Particularly valuable when Hebrew nuance illuminates a passage.
 
@@ -122,13 +146,14 @@ The Coptic Orthodox Church holds the first three ecumenical councils (Nicaea 325
 
 Coptic theology is heir to the Alexandrian school and tends toward strong allegorical and typological reading. The Theotokos receives extensive Old Testament typological treatment in Coptic hymnography (the Theotokia for the days of the week).
 
+## Modern Coptic Orthodox Fathers and Pastoral Writers
+
+These are not ancient Church Fathers. Use them as modern Coptic Orthodox pastoral and spiritual sources, and label them accordingly in reader-facing material.
+
+**Fr. Matta El Meskeen / Fr. Matthew the Poor (1919 to 2006)**
+Modern Coptic Orthodox monk, spiritual writer, and biblical commentator. Use as a strong modern Coptic source for spiritual interpretation, monastic and ascetic application, prayer, repentance, Scripture meditation, and the Church's life in Christ. Distinguish his modern pastoral witness from ancient patristic citation, and verify controversial or sensitive theological points before leaning on them.
+
 When working with passages where Christological formulation matters (the Council of Chalcedon's "in two natures"), the skill should be aware of the difference between Eastern Orthodox and Oriental Orthodox formulations and not import language that would be foreign to a Coptic Orthodox reader.
-
-## Direct quote gems
-
-Patristic material should not be all summary. When a lesson or explanation uses a substantive Father, ask whether a verified sentence or tightly connected excerpt would add authenticity, beauty, and weight. If yes, include it after the summary or paraphrase.
-
-A direct quote is useful only when it does interpretive work. Do not quote as ornament. First explain what the Father is teaching in plain language, then let the Father's own words sharpen, confirm, or deepen that point. If exact wording or source status is not verified, paraphrase instead.
 
 ## How to use this reference
 
@@ -136,9 +161,12 @@ When the skill needs to cite a Father:
 1. If you genuinely know a Father's distinctive position on the passage, attribute it.
 2. If you know the consensus but not the specific source, attribute to "the Fathers" or "the patristic tradition."
 3. Summarize/paraphrase the Father's teaching first. If exact wording and source status are verified, add a brief direct quote gem for authenticity; if the quote is unverified, paraphrase instead.
-4. For passages with major Christological weight, prefer Cyril of Alexandria, Athanasius, and Maximus the Confessor.
-5. For passages with major moral or pastoral weight, prefer Chrysostom, Basil, and Isaac the Syrian.
-6. For Old Testament typology, prefer Ephrem the Syrian, Cyril of Alexandria, and Maximus.
-7. For ascetic and inner application, prefer the desert tradition, Macarius, Cassian, Climacus.
-8. For Wisdom literature and the Song of Songs, prefer Gregory of Nyssa and Maximus.
-9. For the Psalms, prefer Athanasius, Augustine, and Theodoret.
+4. For passages with major Christological weight, prefer Cyril of Alexandria, Athanasius, Irenaeus, Hilary of Poitiers, and Maximus the Confessor.
+5. For passages with major moral or pastoral weight, prefer Chrysostom, Basil, Cyprian, Ambrose, Augustine, and Isaac the Syrian.
+6. For Old Testament typology, prefer Ephrem the Syrian, Justin Martyr, Irenaeus, Cyril of Alexandria, and Maximus.
+7. For ascetic and inner application, prefer the desert tradition, Macarius, Cassian, Climacus, and Fr. Matta El Meskeen as a modern Coptic pastoral source.
+8. For Wisdom literature and the Song of Songs, prefer Gregory of Nyssa, Origen's orthodox-accepted exegetical material, Ambrose, and Maximus.
+9. For the Psalms, prefer Athanasius, Augustine, Jerome, Theodoret, and Fr. Matta El Meskeen where modern Coptic spiritual commentary is useful.
+10. For early apologetics, apostolic tradition, and anti-Gnostic context, include Justin Martyr, Irenaeus, and Hippolytus.
+11. For Latin patristic depth, include Augustine, Irenaeus where relevant, Cyprian, Jerome, Ambrose, and Hilary of Poitiers.
+12. For Holy Pascha readings, rites, and contemplations, consult the saved source-library item *Treasures of the Fathers of the Church: The Holy Pascha* alongside the local Coptic lectionary data and primary Pascha source texts.

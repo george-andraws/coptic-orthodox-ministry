@@ -110,13 +110,15 @@ all content in varying degrees:
 The Coptic Orthodox Church is the ancient church of Egypt, founded by St. Mark the
 Evangelist. When preparing content for a Coptic Orthodox audience, be aware of:
 
-- **Liturgical language:** The Divine Liturgy of St. Basil is the standard liturgy.
-  The Agpeya (Coptic Prayer Book) structures daily prayer. Hymns carry significant
+- **Liturgical language:** The Divine Liturgy of St. Basil is the form used most commonly
+  through the year, alongside the Liturgies of St. Gregory and St. Cyril in their proper
+  use. The Agpeya (Coptic Prayer Book) structures daily prayer. Hymns carry significant
   theological weight and are often quoted in lessons.
 
-- **Fasting tradition:** The Coptic Church maintains one of the most extensive fasting
-  traditions in Christianity (up to 210 fasted days per year). Fasting content should
-  reflect this seriousness.
+- **Fasting tradition:** The Coptic Church maintains one of Christianity's most extensive
+  fasting traditions, with more than two hundred fasting days in many years depending on
+  the calendar and observance. Avoid an exact annual count unless a cited calendar and
+  counting method support it.
 
 - **Patristic heritage:** Coptic theology draws especially on the Alexandrian Fathers:
   St. Athanasius, St. Cyril of Alexandria, St. Dioscorus. Also heavily on the Desert

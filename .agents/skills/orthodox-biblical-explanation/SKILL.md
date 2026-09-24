@@ -1,134 +1,34 @@
 ---
 name: orthodox-biblical-explanation
-description: Explain Scripture from an Orthodox perspective with biblical context, patristic interpretation, liturgical awareness, typology, and practical spiritual fruit.
+description: Explain a verse, chapter, pericope, or biblical theme through Orthodox Scripture-first and patristic interpretation. Use for close exegesis supporting a lesson or Bible study; use a book-project workflow only when the user explicitly asks for one.
+version: 1.0.0
+license: CC-BY-4.0
 ---
 
 # Orthodox Biblical Explanation
 
-Use this skill when the user asks for Orthodox interpretation of a Scripture passage, verse, chapter, pericope, biblical theme, or patristic reading of Scripture.
+Interpret Scripture as the Church's living witness to Christ: read the literary unit, hear its canonical echoes, consult verified patristic reception, and lead toward repentance, worship, and life in the Church. Never use a verse as a pretext for generic inspiration, polemic, or speculative claims.
 
-This is a public, reusable passage-exegesis skill. It must not depend on private vaults, private databases, local filesystem paths, or unpublished source collections.
+## Workflow
 
-## Purpose
+1. Read the whole requested unit and establish literary context, speaker, audience, and repeated words or images.
+2. Identify controlling canonical intertexts before using modern analogies or historical reconstruction.
+3. State the text's Christological, ecclesial, and spiritual center in clear prose.
+4. Add patristic interpretation only when a source can be named accurately; distinguish direct quotation, close paraphrase, and later tradition.
+5. Use Greek, Hebrew, or Aramaic only when a specific lexical pattern changes interpretation; give the term, ordinary sense, relevant occurrence, and payoff.
+6. Separate firm Orthodox doctrine from historical uncertainty or interpretive diversity.
+7. End with concrete spiritual fruit rooted in the passage: prayer, repentance, mercy, sacramental life, endurance, or truthful witness.
 
-Produce explanations of Scripture that nourish prayer and withstand theological scrutiny. The goal is encounter with Christ through the inspired text, not information accumulation.
+## Source discipline
 
-Every explanation should be:
+Read `references/shared/patristic-sources.md`, `references/shared/patristic-sourcing-policy.md`, and `references/shared/source-confidence.md` before making substantial patristic or historical claims. Use `references/shared/lexical-and-translation-depth-standard.md` for language work and `references/shared/orthodox-literary-voice-synthesis.md` for reader-facing prose.
 
-- faithful to Scripture
-- grounded in the Orthodox Church's reading of salvation in Christ
-- informed by the Fathers where genuinely relevant
-- honest about historical, textual, and liturgical uncertainty
-- concrete in spiritual application
+Cite Scripture and primary sources precisely. Do not invent quotations, universalize one Father's opinion as consensus, or imply access to a licensed library or private corpus that is not available in the current task.
 
-## Depth and style bar
+## Guide structure
 
-For substantial passage explanations and reusable teaching prose, do not stop at correct outline coverage. The explanation should follow the actual movement of the text, define unfamiliar theological/liturgical/patristic/original-language terms, and move naturally toward prayer, repentance, worship, mercy, humility, watchfulness, or union with Christ.
+For a substantial study guide, use a passage-native opening, context, close explanation, canonical connections, Orthodox/patristic reception, spiritual fruit, teaching notes, glossary where needed, and sources. Read `references/shared/bible-study-guide-structure-standard.md` and `references/shared/bible-study-quality-contract.md` before producing a publication-ready guide. Use `examples/1-kings-13-example.md` as an example of level of care, not a template to copy mechanically.
 
-The prose should be reverent and beautiful without becoming ornate. Prefer flowing paragraphs over checklist-like fragments when unfolding the meaning of Scripture. Remove generic spiritual language that could fit any passage.
+## Boundaries
 
-For substantial Bible studies and publication-ready passage explanations, read `references/shared/orthodox-literary-voice-synthesis.md` before drafting or revising. Draw on its transferable virtues of clarity, contemplative depth, Cross-centered pastoral directness, sacramental vision, truth, and mercy. Do not imitate any named writer's recognizable voice; Scripture must remain visibly in control.
-
-When a lawfully licensed Accordance library could materially help with Orthodox bridge notes, patristic discovery, translation comparison, lexical orientation, geography, charts, parallels, or visuals, read `references/shared/accordance-and-licensed-bible-library-research.md`. Check the user's actual application and module availability first. Treat search results as leads, record relocatable source details, and never imply that an unavailable module was searched.
-
-## When to use
-
-Use for:
-
-- "Explain John 4 from an Orthodox perspective"
-- "What do the Fathers say about Genesis 22?"
-- "Give me a Bible study on the Transfiguration"
-- "Spiritual meaning of Psalm 50"
-- "Walk through Romans 8"
-
-Do not use for:
-
-- general doctrine not tied to Scripture
-- pure archaeology/history questions
-- full lesson artifacts when `coptic-orthodox-spiritual-lessons` is the better owner
-- icon identification when `orthodox-iconography` is the better owner
-
-## Default structure
-
-Use the long form unless the user asks for a brief answer.
-
-1. **Opening summary**
-   - 3-5 sentences naming the passage's central spiritual and theological claim.
-
-2. **Historical and scriptural context**
-   - Where this sits in the book/canon.
-   - Historical, cultural, political, or religious background needed for understanding.
-
-3. **Geographical significance**
-   - Include only when places, travel, elevation, borders, wilderness, city, sea, exile, or temple geography matters.
-
-4. **The characters**
-   - Name the key figures and what is spiritually at stake.
-
-5. **Light from the Word / Gospel**
-   - Quote or summarize the relevant textual units.
-   - Explain literal sense, literary structure, and key words.
-   - Add original-language insight only when it deepens meaning.
-
-6. **Patristic voice**
-   - Use real, sourced Fathers.
-   - Summarize the interpretation first.
-   - Include direct quotes only when exact wording is verified.
-   - Distinguish consensus from a single Father's distinctive interpretation.
-
-7. **Christological and typological reading**
-   - Especially for Old Testament passages and ethical teachings.
-   - Anchor moral application in Christ, the Cross, Resurrection, Church, sacraments, and Kingdom.
-
-8. **The Church's voice in worship**
-   - Mention lectionary, feast, fast, hymn, sacrament, Agpeya, Synaxarium, or liturgical resonance when known.
-   - If exact placement is uncertain, say the passage resonates with a theme rather than asserting a specific reading.
-
-9. **Iconography connection**
-   - Include if the passage has a meaningful iconographic tradition.
-   - Prefer Coptic/Egyptian Christian visual sources first when available with clear context; otherwise broaden to other Orthodox/Eastern Christian sources.
-   - Explain what the icon or visual teaches. Do not provide image links without theological explanation.
-   - Use `orthodox-iconography` for actual image identification.
-
-10. **Spiritual fruit**
-   - 3-5 concrete takeaways for prayer, repentance, watchfulness, mercy, fasting, confession, forgiveness, or daily obedience.
-
-11. **Teaching notes / discussion questions**
-   - Include when the output is meant for teaching.
-
-12. **Sources and further reading**
-   - Separate Scripture, Fathers, liturgical texts, academic sources, Coptic Orthodox / pastoral sources, and web sources.
-
-## Translation and citation policy
-
-- Quote Scripture accurately and name the translation used.
-- For long passages, use a public-domain or licensed translation appropriate to the context.
-- For Orthodox Old Testament work, note Septuagint/LXX differences when they materially affect meaning.
-- Use Psalm numbering carefully; state whether the numbering is LXX or Masoretic/NKJV when relevant.
-- Do not invent cross-references, lectionary usage, patristic quotes, or original-language claims.
-
-## Patristic sourcing rules
-
-- Prefer primary patristic sources when possible.
-- Cite work, book/chapter/section, homily number, or paragraph where possible.
-- If using a modern pastoral source such as Fr. Tadros Malaty or Pope Shenouda III, identify it as modern Coptic Orthodox/pastoral commentary, not ancient patristic witness.
-- If no relevant patristic material is found, do not force a hollow citation.
-- When a verified patristic sentence or tightly connected excerpt adds beauty, authenticity, and interpretive weight, include it as a quote gem after explaining the Father's point in plain language.
-
-## Short mode
-
-For brief answers, use:
-
-1. The passage's main meaning.
-2. One Orthodox theological insight.
-3. One patristic or liturgical connection if known.
-4. One practical spiritual fruit.
-5. Any important uncertainty.
-
-## Quality checklist
-
-- Did I explain the actual text, not just a theme?
-- Is Christ central where the passage calls for it?
-- Are patristic claims real and not decorative?
-- Did I avoid overclaiming lectionary or historical details?
-- Is the spiritual fruit specific enough to practice?
+Use `orthodox-apocalyptic-exegesis` for Revelation, Daniel, Ezekiel's visions, the Olivet discourse, or other apocalyptic texts. Use the adult-lesson skill when the primary deliverable is a meeting lesson or announcement. Keep project-specific publishing, audio, document-sync, and local knowledge-base procedures out of this portable skill.

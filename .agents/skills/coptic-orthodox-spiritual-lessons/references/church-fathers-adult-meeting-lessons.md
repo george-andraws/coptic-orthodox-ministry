@@ -2,9 +2,9 @@
 
 Use this reference when preparing English Adult Meeting lessons in a Church Fathers / patristic series, especially when the topic is a saint rather than a biblical passage.
 
-## Recommended artifact
+## the lesson author's preferred artifact
 
-For Church Fathers sessions, A teacher may want a longer preparer-facing master draft before a tightened speaking script. The draft should educate the preparer, while teacher-prep bullets are gathered in one final `Teaching guide` rather than embedded after each body section.
+For Church Fathers sessions, the lesson author's may want a longer preparer-facing master draft before a tightened speaking script. The draft should educate the preparer, while teacher-prep bullets are gathered in one final `Teaching guide` rather than embedded after each body section.
 
 A strong draft balances four layers:
 
@@ -58,7 +58,7 @@ For Gregory of Nyssa, the useful pattern is:
 
 ## Teaching guide format for long preparer drafts
 
-Near the end, add one `Teaching guide` organized by major section with plain section labels. Do not use same-page heading links. Use 3-5 bullets per block:
+Near the end, add one `Teaching guide` organized by major section with plain section labels. Do not use same-page a Markdown knowledge base heading links. Use 3-5 bullets per block:
 
 - Ask: discussion question or opening prompt
 - Emphasize: the main teaching point to press out loud

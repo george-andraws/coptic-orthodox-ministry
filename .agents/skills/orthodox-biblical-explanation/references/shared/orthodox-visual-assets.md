@@ -9,19 +9,21 @@ Use visual material when it clarifies teaching, not as decoration.
 - manuscripts, museum objects, archaeological sites, churches, monasteries, landscapes, or artifacts
 - public-domain, Creative Commons, museum, church, monastery, library, Wikimedia Commons, academic, or official-site sources
 
-## Orthodox iconography priority
+## the lesson author's Orthodox iconography priority
 
-For Bible-study and lesson work, search Coptic, Coptic Orthodox, Oriental Orthodox, Egyptian Christian, Syriac, Armenian, and Ethiopian sources first when the passage or theme allows, then broaden to other Orthodox, Byzantine, Greek, Russian, Serbian, Macedonian, or related Eastern Christian styles.
+For Bible-study iconography tasks, search Coptic, Coptic Orthodox, Oriental Orthodox, Egyptian Christian, Syriac, Armenian, and Ethiopian sources first when the passage/theme allows, then broaden to other Orthodox, Byzantine, Greek, Russian, Serbian, Macedonian, or related Eastern Christian styles.
 
-Prefer clearly licensed or public-domain assets for embedded local copies. If a modern icon print, church page, portfolio, or commercial source has unclear rights, use it only as a reference link or inspiration unless reuse permission is explicit.
+It is acceptable to embed more than one Last Supper / Mystical Supper icon when each image adds a distinct theological, pastoral, or tradition-specific angle. Make Coptic/Egyptian material primary for the lesson author's when it is available with clear rights. Use broader Orthodox styles as secondary witnesses, not replacements for available Coptic sources.
+
+Prefer clearly licensed or public-domain assets for embedded local copies. If a modern icon print, church page, or commercial source has unclear rights, use it only as a reference link or inspiration unless reuse permission is explicit.
 
 ## Current online icon and visual-source search standard
 
-Do not rely only on old cached manifests or generic Wikimedia category pages. For new final revisions, lesson drafts, visual passes, and iconography audits, do a current online source check when visuals would materially deepen the teaching.
+Do not rely only on old cached project manifests or generic Wikimedia category pages. For new Bible-study final revisions, lesson drafts, Gospel visual passes, and iconography audits, do a current online source check when visuals would materially deepen the guide.
 
 Use this search order:
 
-1. **Coptic and Egyptian Christian sources first:** CopticIconography.com, Coptic church and monastery galleries, named Coptic iconographer portfolios, Neo-Coptic iconography resources, and official parish pages with icon explanations.
+1. **Coptic and Egyptian Christian sources first:** CopticIconography.com, Coptic church and monastery galleries, named Coptic iconographer portfolios such as the lesson author's Makary Coptic Icons, UK Coptic Icons / Neo-Coptic iconography resources, and official parish pages with icon explanations.
 2. **Open academic and archival sources:** Manar al-Athar, museum collections, libraries, academic photo archives, manuscript repositories, archaeological site pages, and university resources.
 3. **Wikimedia Commons individual file pages:** use file-level metadata, not category pages, and verify license, creator, source, MIME type, dimensions, and URL health before embedding.
 4. **Broader Orthodox / Byzantine / Eastern Christian sources:** Greek, Russian, Serbian, Syriac, Armenian, Ethiopian, monastery, and icon-studio pages, clearly labeled by tradition.
@@ -29,12 +31,13 @@ Use this search order:
 
 Recent Coptic iconography articles can be valuable because they often explain the theological program of a contemporary church icon cycle, such as Pantocrator, Transfiguration, Anastasis, Virgin of the Sign, Good Shepherd, Crucifixion, Nativity, or sanctuary imagery. Use these as interpretation and source leads, but do not embed modern copyrighted images as reusable assets unless rights are explicit.
 
-For every selected visual, record: source page, creator or owner when known, tradition/style, license or rights note, why it fits this passage or lesson, and whether it is embedded, linked only, or deferred for review.
+For every selected visual, record: source page, creator or owner when known, tradition/style, license or rights note, why it fits this passage, and whether it is embedded, linked only, or deferred for the lesson author's review.
 
 ## Inline requirement
 
 When a guide or lesson discusses an icon, map, manuscript, museum object, site, or artifact, include either:
-- a Markdown image link such as `![alt](Assets/file.jpg)` for local project assets.
+- a Markdown image link such as `![alt](Assets/file.jpg)` for local vault assets. Prefer this in the lesson author's Bible-study vault because the broken-link scanner can flag a Markdown knowledge base attachment embeds like `![[Assets/file.jpg]]` as unresolved wikilinks even when the file exists.
+- an inline a Markdown knowledge base embed such as `![[file]]` only when the target vault/tooling is known to resolve attachment embeds cleanly.
 - a Markdown image URL such as `![alt](https://...)`, or
 - a clear source link with attribution and rights/license note if embedding is not appropriate.
 
@@ -50,20 +53,20 @@ The caption is attribution only. Do not put teaching instructions, slide directi
 
 ## Teaching Notes ownership
 
-For Bible-study notes, every visual teaching instruction belongs in the final teacher-facing notes block, using a plain passage label:
+For Bible-study notes, every visual teaching instruction goes in the bottom `## Teaching Notes` section immediately after `## Spiritual Fruit 🍇`, using a plain passage label:
 
 ```markdown
-## Spiritual Fruit
+## Spiritual Fruit 🍇
 
 <Reader-facing spiritual fruit and practical application.>
 
-### Teaching Notes
+## Teaching Notes
 
-#### The Letter to Artaxerxes (Ezra 4:11-16)
+### The Letter to Artaxerxes (Ezra 4:11-16)
 - Show: Use the embedded Achaemenid Empire map when explaining why the accusation against Jerusalem mattered politically.
 ```
 
-Do not put lines like "use this map for a slide," "show students," or "for a handout" in the body, iconography section, or caption. Do not use same-page heading links such as `[[#...]]` in teaching-note headings.
+Do not put lines like "use this map for a slide," "show students," or "for a handout" in the body, iconography section, or caption. Do not use same-page a Markdown knowledge base heading links such as `[[#...]]` in teaching-note headings.
 
 ## Cautions
 
