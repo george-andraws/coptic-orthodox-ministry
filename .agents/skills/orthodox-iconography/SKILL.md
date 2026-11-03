@@ -28,6 +28,10 @@ Record a source page, creator or owner when known, tradition/style, license or r
 
 Read `references/nicaea-iconography.md` for council-icon cautions, `references/wikimedia-commons-api-visual-source-verification.md` for file-level license verification, and `references/desert-fathers-open-license-visual-sourcing.md` or `references/old-testament-judge-icon-sourcing.md` when applicable. Read `references/shared/orthodox-visual-assets.md` for general visual-source policy.
 
+## Scope and generated art
+
+Limit visual research and asset changes to the authorized task. A prose-only revision does not authorize sourcing, downloading, generating, or placing images. Treat AI-generated Orthodox-style art as a clearly labeled candidate illustration pending human review, never as an authenticated traditional icon or an approved final cover. Qualify maps and relationship diagrams where geography, dates, locations, or traditions are uncertain, and label project schematics as teaching aids rather than historical reconstructions. Distinguish an artwork's received biblical tradition from its artistic style, and do not replace a passage's primary visual identity with a scene from an adjacent canonical or deuterocanonical episode. When a reader points out a missed halo, inscription, or gesture, re-inspect the image and revise the identification in light of that evidence.
+
 ## Response standard
 
 Lead with the direct identification. Name the visual evidence and uncertainty. Explain theology only after the viewer understands what is shown. Do not claim private research tools, local asset paths, or reuse rights that have not been verified.

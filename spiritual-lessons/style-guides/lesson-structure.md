@@ -1,29 +1,26 @@
 # Lesson Structure Style Guide
 
 This file defines the standard structure, tone, and quality expectations for every
-lesson prepared using this skill. Use it as a checklist and reference during
+lesson prepared using this toolkit. Use it as a checklist and reference during
 lesson preparation.
 
 ---
 
 ## Standard Lesson Structure
 
-Every lesson follows this order. Sections can be expanded or condensed based on
-the lesson's scope, but none should be skipped without reason.
+Use this as a planning menu, not a compulsory visible outline. Preserve an existing lesson's approved form and the active publication schema. Optional apparatus earns space through reader benefit; omit irrelevant sections without non-applicability filler. Bible-study guides follow the shared Bible-study guide structure standard, not this lesson menu.
 
 ### 1. Title
 Clear, evocative, spiritually oriented. Should name the burden, not just the topic.
 
-- Good: *"The Paralysis We Choose: Healing After 38 Years"*
-- Weak: *"The Man at the Pool of Bethesda"*
+- A title such as *"Christ Meets the Man at Bethesda"* can name the encounter without turning disability into chosen guilt. Choose a sharper burden only when the passage supports it; do not equate physical paralysis with a moral fault.
 
 ### 2. Main Burden
 One short paragraph. The single spiritual claim the lesson is making.
 What do you want the hearer to walk away having understood, felt, and been moved toward?
 
 ### 3. Opening Hook
-A question, image, short story, or striking observation that pulls the hearer in.
-Should connect to ordinary life before moving to the text.
+A question, textual contrast, direct explanation, argument, or verified image that opens the passage's actual stakes. An epistle may begin with its reasoning; a lament need not be resolved at the opening. Do not invent a scene or require an everyday anecdote before Scripture.
 
 Examples:
 - A question that exposes a familiar spiritual struggle
@@ -39,7 +36,7 @@ Examples:
 ### 5. Main Teaching Sections
 Work through the passage section by section or verse by verse.
 
-For each section, cover all four of these:
+Across the whole lesson, secure these reader outcomes without repeating a four-step application sequence after every section:
 1. **What is happening** - explain the text plainly
 2. **What it reveals** - about God, Christ, man, sin, salvation, or the spiritual life
 3. **Spiritual application** - what does this mean for how we live and pray?
@@ -59,17 +56,17 @@ What does this passage reveal that is distinctly important to Orthodox theology?
 Do not flatten this into generic Christian doctrine. Be Orthodox and specific.
 
 ### 7. Patristic Insight
-Include 1 to 3 patristic quotes or references that illuminate the passage.
+Use verified patristic material when it illuminates this passage. Keep a quotation when its actual wording adds interpretive force, spiritual texture, or necessary qualification, not to satisfy a count. A fuller excerpt is appropriate when the source's argument needs it; omit redundant quotations.
 
 Rules:
 - Only use real, verifiable quotes with attribution: Father's name, work title, and chapter/section or homily number where possible
 - Prefer specific citations such as `St. Basil, On the Holy Spirit 15.36` over vague attribution
 - If the exact primary-source citation is unavailable, provide the source where the quote was found and say it is not a primary-source citation
-- If the exact quote is uncertain, paraphrase and note: *"St. [Name] consistently taught that..."*
+- If exact wording is uncertain, paraphrase only after verifying the named witness's teaching and work/section locator. Otherwise remove the attribution or mark a bounded editorial inference. Collective claims require evidence for their stated scope, not vague unanimity.
 - Never invent or approximate a quote and present it as real
 - Include a brief historiographical caveat when a traditional attribution or historical claim is contested
 
-Fathers most commonly cited for lesson content:
+Potential sources for lesson content, subject to the source-role and reception distinctions in `../references/shared/patristic-sources.md` (modern pastoral writers are not ancient Fathers):
 - St. Athanasius (Incarnation, Christology)
 - St. Cyril of Alexandria (Christology, John's Gospel)
 - St. John Chrysostom (practical, pastoral, homiletical)
@@ -81,7 +78,7 @@ Fathers most commonly cited for lesson content:
 - Fr. Matthew the Poor / Matta el-Meskeen (deep, contemplative)
 
 ### 8. Old Testament Links and Typology
-Include this section for any lesson on Christ, the Church, sacraments, virtue, mercy, repentance, suffering, or major Fathers. Skip only when genuinely irrelevant, and say why if the omission might surprise the reader.
+Use this optional section only when a source-grounded type or intertext clarifies the passage. Distinguish received typology from an editorial pastoral analogy; do not turn every object or moral theme into a type, or explain an irrelevant omission in reader prose.
 
 Show how the passage or theme fulfills or mirrors an Old Testament type:
 - Person (e.g. Joseph as a type of Christ)
@@ -99,15 +96,15 @@ Connect the passage to the life of the Church:
 - How does the Eucharist, Baptism, Repentance, or another sacrament illuminate the text?
 - What hymn or liturgical prayer echoes this theme?
 
-### Iconography Connection 🖼️
+### 10. Iconography Connection 🖼️
 Research and evaluate whether Orthodox/Coptic iconography can enhance the lesson.
 
-Include this section for full lessons:
+Include this optional section when it materially helps the teaching and visual research is in scope:
 - Name relevant icons or iconographic scenes when they exist: feast icons, saint icons, biblical scenes, council icons, martyrdom scenes, or symbolic motifs
 - Explain how the icon's composition, figures, gestures, inscriptions, placement, colors, or symbols clarify the lesson's meaning and spiritual benefit
 - Use iconography as theology in color, not as decoration or generic slide art
-- If an actual icon image is provided or needs close identification, use the `orthodox-iconography` skill's visual-evidence workflow: inspect the image, read inscriptions, distinguish certainty levels, and avoid overclaiming
-- If no meaningful iconographic overlap exists, include a brief comment: `No direct iconography connection appears central to this lesson.`
+- If an actual icon image is provided or needs close identification, follow a visual-evidence workflow: inspect the image, read inscriptions, distinguish certainty levels, verify provenance and reuse rights, and avoid overclaiming
+- If no meaningful iconographic overlap exists, omit the section. Any needed research limitation belongs in preparer/source notes.
 
 ### 11. Personal Spiritual Contemplation
 A quieter, more interior section. Invite the hearer to sit with the passage personally.
@@ -118,7 +115,7 @@ A quieter, more interior section. Invite the hearer to sit with the passage pers
 ### 12. Practical Application for Adult Life
 Concrete, honest, non-generic. What does this mean on Monday morning?
 - Name specific struggles, temptations, or patterns
-- Broaden beyond the obvious literal condition so everyone in the room can find themselves in the lesson
+- Broaden application where the text warrants it without making every reader the same offender. Distinguish sin, temptation, illness, suffering, and injury; do not blame the wounded or imply that legitimate care rivals faith.
   - Greed: include money, time, attention, forgiveness, hospitality, control, and possessiveness
   - Prayer: include formal prayer, dependence, attention, repentance, presence, listening, and daily responsiveness to God
   - Suffering: include physical suffering, loneliness, humiliation, grief, spiritual dryness, family burdens, hidden wounds, and moral struggle
@@ -143,7 +140,7 @@ A short prayer that embodies the lesson's burden. Can be original or drawn from 
 Agpeya, liturgy, or a Father's writings.
 
 ### 16. Teaching guide
-Near the end of every full lesson, include one teacher-facing `Teaching guide`, organized by passage or major section with plain section labels. Do not use same-page a Markdown knowledge base heading links. Include:
+Near the end of every full lesson, include one teacher-facing `Teaching guide`, organized by passage or major section with plain section labels. Use plain section labels rather than application-specific same-page heading links. Include:
 - Ask: discussion question
 - Emphasize: teaching emphasis
 - Watch for: common misunderstanding, pastoral caution, or accuracy caveat
@@ -157,19 +154,12 @@ Do not put slide, handout, or image-use instructions in the body or under image 
 Define technical, patristic, liturgical, historical, Greek, Hebrew, Coptic, Syriac, or iconographic terms used in the lesson. Keep definitions brief and useful for a teacher.
 
 ### 18. Sources and Further Reading
-End substantial lessons with separated source lists:
+For substantial lessons, cite sources actually used and group by source role when useful; do not add empty categories:
 - **Primary sources:** Scripture, Fathers, councils, canons, liturgical texts, Synaxarium entries, and ancient sources, cited by chapter/section where possible
-- **Secondary academic sources:** include at least one peer-reviewed academic work when one exists and is relevant
+- **Secondary academic sources:** include relevant scholarship when it resolves an actual question, not merely to complete a checklist
 - **Coptic Orthodox / pastoral sources:** Church-published material, monastery resources, sermons, or books used
 - **Iconography / image sources:** source/provenance for icons discussed or proposed for slides, noting tradition when available
 - **Web pages and non-academic sources cited:** list these separately so they are not confused with academic sources
-
-### 19. Follow-up Asset Question
-At the end of each full lesson or Bible study, ask whether the lesson author's wants:
-1. A voice file of the output
-2. An outline of notes for the lesson as a teaching guide
-3. A suggested slide deck outline of slides, images, and content
-4. A generated slide deck
 
 ---
 
@@ -183,6 +173,8 @@ At the end of each full lesson or Bible study, ask whether the lesson author's w
 | Name sin and struggle honestly | Soften or avoid hard truths |
 | Use specific Orthodox language | Use vague generic Christian language |
 | Let Scripture carry the weight | Over-explain or over-illustrate |
+
+Write as a sincere teacher, not a simulated spiritual elder. Let the passage console, lament, praise, argue, explain, or rebuke as warranted; do not diagnose hidden motives in every section. Use no em dashes in original prose. Preserve exact Scripture and authenticated quotations.
 
 ---
 

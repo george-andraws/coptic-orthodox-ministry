@@ -2,7 +2,7 @@
 
 Use this when an Orthodox Bible-study or iconography task needs a sourced visual asset with license metadata, especially for icons, maps, manuscript images, museum objects, or public-domain teaching art.
 
-This is a positive workflow pattern, not a claim about any specific web tool. It avoids relying on generic search snippets and records the actual Commons file metadata before embedding an image in the lesson author's vault.
+This is a positive workflow pattern, not a claim about any specific web tool. It avoids relying on generic search snippets and records the actual Commons file metadata before embedding an image in a portable teaching project.
 
 ## When to use
 
@@ -30,7 +30,7 @@ params = {
     "iiprop": "url|extmetadata|mime|size",
 }
 url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(params)
-data = json.load(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Hermes/1.0"}), timeout=30))
+data = json.load(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "MinistryVisualResearch/1.0"}), timeout=30))
 for page in data.get("query", {}).get("pages", {}).values():
     ii = (page.get("imageinfo") or [{}])[0]
     meta = ii.get("extmetadata") or {}
@@ -40,7 +40,7 @@ for page in data.get("query", {}).get("pages", {}).values():
 Select a file only after checking:
 
 - file title is the specific visual, not a category or unrelated object
-- `LicenseShortName` is acceptable for the project, ideally `Public domain` for simple guide use
+- `LicenseShortName` is acceptable for the project, ideally `Public domain` for simple guide use; confirm the full file-page rights statement and any attribution or share-alike obligations rather than relying on the short label alone
 - MIME type is an image type
 - upload URL is present
 - artist/source/description metadata is sufficient for a clean caption or source note
@@ -62,6 +62,7 @@ params = {
 Useful metadata keys:
 
 - `LicenseShortName`
+- `LicenseUrl`, `UsageTerms`, and attribution requirements where provided
 - `Artist`
 - `ImageDescription`
 - `Credit`
@@ -72,7 +73,7 @@ Strip HTML tags only for internal review if needed. Reader-facing captions shoul
 
 ### Known-file / user-supplied URL pattern
 
-When the lesson author's supplies a specific Wikipedia/Commons image URL, do not do a broad image search first. Resolve the actual Commons file title, then query the Commons API for file-level metadata. If page extraction is unavailable or rate-limited, use the MediaWiki API directly for:
+When a specific Wikipedia/Commons image URL is supplied, resolve that source before doing a broad image search. Resolve the actual Commons file title, then query the Commons API for file-level metadata. If page extraction is unavailable or rate-limited, use the MediaWiki API directly for:
 
 - Commons `imageinfo` with `url|extmetadata|mime|size`
 - Wikipedia `extracts|info` for article summary, official location, date, medium, dimensions, and interpretive context when the file page is sparse
@@ -80,7 +81,9 @@ When the lesson author's supplies a specific Wikipedia/Commons image URL, do not
 
 If remote image inspection hits rate limiting, inspect the downloaded local file instead of treating the image as unverifiable. The durable lesson is the fallback sequence: API metadata, local download, local visual verification, then guide embedding.
 
-Record museum/location/date/medium/dimensions in a project manifest or resources note when the image is used in a Bible-study guide. Keep the reader-facing caption short; put fuller provenance in the guide prose only when it directly helps the passage.
+Open the holding museum's current object record before finalizing date, origin, medium or object classification. Prefer its current attribution over a Commons transcription when they differ, and retain the discrepancy in editorial source notes; Commons may preserve an older, narrower date even when its reproduction remains lawfully reusable. Keep object metadata and reproduction rights as separate checks. Follow redirects to the actual object record rather than treating an older catalogue URL as a different work.
+
+Inspect the downloaded image before writing its interpretation. Label a carved devotional image, manuscript illumination or museum relief by its actual medium rather than calling every sacred image a painted icon. A museum's documented devotional use may support calling a relief an icon, but it does not identify every background figure or establish a specific biblical typology. Record museum/location/date/medium/dimensions in a project manifest or resources note when the image is used in a Bible-study guide. Keep the reader-facing caption short; put fuller provenance in the guide prose only when it directly helps the passage.
 
 ## Download and verify
 
@@ -116,19 +119,11 @@ Record the operational source details in `Resources Used - <Book>.md` or an audi
 
 - local asset filename
 - Commons file page
-- license status
+- license status, license link, and any attribution or share-alike obligations
 - artist/source metadata
 - teaching purpose
 - any caution, e.g. Orthodox icon vs Western art vs map vs generated teaching aid
 
-## Verifier interaction
+## Visual-evidence check
 
-If the guide uses iconography or visual language without an actual inline image/embed, the guide verifier may warn. Either:
-
-1. add the intended verified image with a source caption, or
-2. replace metaphorical visual wording with non-visual wording when no image is intended.
-
-Example replacements:
-
-- `image for decisive repentance` -> `language for decisive repentance`
-- `shepherd image` -> `shepherd teaching`
+When a guide intends to teach from a particular image, include the inspected image with its source caption or clearly identify the source to be shown. Do not imply that an image was inspected or supplied when it was not. Ordinary metaphors such as “shepherd image” do not by themselves require an illustration.

@@ -1,6 +1,6 @@
 # Orthodox Literary Voice Synthesis for Bible Studies
 
-Use this reference when drafting or revising New Testament Bible-study prose, especially when the lesson author's asks for beautiful, spiritually deep, reader-connecting writing. It distills transferable craft from C. S. Lewis, Fr. Matthew the Poor (Matta El-Meskeen), Fr. Bishoy Kamel, Fr. Alexander Schmemann, and kindred Orthodox spiritual writers.
+Use this optional craft reference for a diagnosed prose weakness or an explicit request for beautiful, spiritually deep, reader-connecting writing. `bible-study-quality-contract.md` owns comparative acceptance and release blockers; this reference does not add promotion requirements. It distills transferable craft from C. S. Lewis, Fr. Matthew the Poor (Matta El-Meskeen), Fr. Bishoy Kamel, Fr. Alexander Schmemann, and kindred Orthodox spiritual writers.
 
 This is a synthesis of virtues, not a formula and not permission to mimic any writer's recognizable surface voice. The guide must have a natural contemporary voice of its own. Scripture, Orthodox truth, and spiritual usefulness govern every literary choice.
 
@@ -115,9 +115,11 @@ Reject prose that:
 - cites a writer whose words or teaching were not verified;
 - confuses emotional intensity with spiritual depth.
 
-## Final literary-spiritual test
+## Optional literary-spiritual diagnosis
 
-Read the lead, one major passage explanation, and Spiritual Fruit aloud. Confirm:
+Use the voice standard's honestly labeled ear/cadence method on selected prose. These questions help locate a weakness; they are not eight additional release conditions. Keep what already works and do not manufacture imagery or memorable lines to satisfy them.
+
+Consider:
 
 1. The prose sounds natural rather than imitative.
 2. The text of Scripture remains visibly in control.
@@ -126,7 +128,7 @@ Read the lead, one major passage explanation, and Spiritual Fruit aloud. Confirm
 5. The Cross and Resurrection, when relevant, are living realities rather than labels.
 6. Liturgical or sacramental connections reveal the passage instead of decorating it.
 7. The reader is addressed with both truth and mercy.
-8. At least one memorable sentence has been earned by close explanation rather than manufactured for effect.
+8. Any memorable sentence is earned by close explanation rather than manufactured for effect; plain accurate prose may be the right choice.
 
 ## Sources reviewed for the synthesis
 

@@ -1,8 +1,6 @@
 # Liturgical and Sacramental Framework
 
-This file maps the Coptic Orthodox liturgical year, major feasts, fasts, and
-sacramental life so that lesson content can be grounded in the Church's rhythm
-rather than treated as standalone topics.
+This file offers thematic prompts for connecting lessons to worship. Its legacy calendar, feast-taxonomy, Holy Week service, and Agpeya tables below are **quarantined, unverified reference material**, not an authority for dates, durations, classifications, hour names, service order, or reading assignments. Before using any precise entry, check the specific claim against a current authoritative Coptic lectionary, synaxarium, or service text. Record the source and occasion; do not repair these tables from memory.
 
 ---
 
@@ -17,11 +15,13 @@ repentance lands differently during the Great Lent than during Pentecost season.
 
 ---
 
-## Major Fasts
+## Major Fasts: unverified legacy table
+
+Do not conflate Great Lent with Kiahk. The former combined label has been withdrawn; the remaining duration and season entries still require source-backed checking before reuse.
 
 | Fast | Duration | Season | Spiritual Character |
 |---|---|---|---|
-| **Great Lent (Kiahk + Lent)** | 55 days | Before Pascha | Deepest fast. Repentance, mourning for sin, preparation for Pascha. Most serious content season. |
+| **Great Lent [unverified row]** | 55 days | Before Pascha | Deepest fast. Repentance, mourning for sin, preparation for Pascha. Most serious content season. |
 | **Apostles' Fast** | Variable (15-49 days) | After Pentecost | Commemorates apostles' fast before their mission. Good season for calling, vocation, witness. |
 | **Fast of the Virgin Mary** | 15 days (Aug 1-15) | Summer | Devotion to the Theotokos. Intercession, holiness, the Dormition. |
 | **Advent Fast (Kiahk)** | 43 days | Before Christmas | Anticipation, prophecy, preparation. Strong OT content season. |
@@ -32,7 +32,9 @@ repentance lands differently during the Great Lent than during Pentecost season.
 
 ## Major Feasts
 
-### The Seven Major Feasts of the Lord
+### Legacy feast grouping: taxonomy and dates unverified
+
+Do not use this grouping as the Coptic major/minor feast classification. Verify each feast and its classification before teaching it.
 
 | Feast | Date (Coptic) | Theme for Lessons |
 |---|---|---|
@@ -44,7 +46,7 @@ repentance lands differently during the Great Lent than during Pentecost season.
 | **Transfiguration** | 13 Mesore | Theosis revealed. The uncreated light. Moses and Elijah. |
 | **Nativity (Christmas)** | 29 Kiahk | Incarnation. God becomes man. The kenosis. Emmanuel. |
 
-### Other Significant Feasts
+### Additional legacy feast entries: unverified
 
 | Feast | Date | Theme |
 |---|---|---|
@@ -55,7 +57,7 @@ repentance lands differently during the Great Lent than during Pentecost season.
 
 ---
 
-## Holy Week
+## Holy Week: service table unverified
 
 Holy Week is the liturgical climax of the Coptic year. Every day has distinct services,
 readings, and spiritual character. Content during or about Holy Week should reflect this.
@@ -91,7 +93,7 @@ living realities the hearer participates in.
 
 ---
 
-## The Agpeya (Canonical Hours)
+## The Agpeya (Canonical Hours): labels and times unverified
 
 The Agpeya structures daily prayer into seven hours based on the Psalms. Lesson
 content can reference these hours to connect Scripture study to the hearer's
@@ -113,7 +115,7 @@ existing prayer life.
 
 When preparing content, ask:
 
-1. **Where are we in the year?** Lent calls for repentance content. Pascha season calls for resurrection and newness. Kiahk calls for typology and prophecy.
+1. **Where are we in the year?** Verify the actual season and occasion first, then let the passage and worship inform the lesson. Do not force a single emotional register or add typology merely because of a seasonal label.
 
 2. **Is there a feast this week?** A lesson near the Feast of the Cross naturally opens to typology and the exaltation of Christ's suffering. A lesson near Pentecost opens to the Holy Spirit, the Church, and charism.
 

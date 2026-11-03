@@ -19,6 +19,7 @@ This is a passive, portable reference library. It does not replace a primary les
 - `references/orthodox-literary-voice-synthesis.md`: write beautiful source-aware prose without imitation.
 - `references/orthodox-visual-assets.md`: source, license, caption, and visual-theology practices.
 - `references/coptic-lessons-publication-schema.md` and `references/orthodox-artifact-production.md`: keep public Markdown structured and portable.
+- `references/article-vs-audit-boundary.md`: keep finished teaching separate from process and provenance notes.
 - `references/coptic-treasures-source-map.md`: discover Coptic Orthodox sources while respecting their terms and copyright.
 
 Do not assume access to private repositories, local databases, personal schedules, licensed software, cloud documents, or delivery services. Do not redistribute licensed materials. Public output should preserve sources, uncertainty, and reusable Markdown rather than private production machinery.

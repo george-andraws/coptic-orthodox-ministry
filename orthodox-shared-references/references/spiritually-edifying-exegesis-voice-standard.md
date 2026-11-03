@@ -1,18 +1,18 @@
 # Spiritually Edifying Exegesis Voice Standard
 
-Use this for every Orthodox Bible-study introduction, passage explanation, final revision, and publication-readiness review.
-
-For New Testament final-depth or publication-ready revision of existing session guides, also load `references/nt-publication-ready-spiritual-depth-and-engagement.md`. That reference governs qualitative promotion for NT masters without changing session-guide structure.
+Use this for targeted voice diagnosis or craft work on an Orthodox Bible-study introduction, explanation or revision. `bible-study-quality-contract.md` owns the single substantive acceptance rubric and comparative baseline review; this is coaching, not another release checklist. Use New Testament or literary craft guidance only when a diagnosed need or explicit voice request makes it useful.
 
 ## Aim
 
 The guide must help a reader encounter Christ, understand the actual Scripture, repent, pray, and grow. It should have its own contemporary voice while drawing on the scriptural closeness and pastoral force of St. John Chrysostom, the clarity and concreteness of C. S. Lewis, Fr. Matthew the Poor’s movement from the Word toward communion and transformed life, Fr. Bishoy Kamel’s Cross-centered pastoral immediacy, Fr. Alexander Schmemann’s sacramental vision, and the truth joined to mercy found in kindred Orthodox spiritual writers. This is a synthesis of virtues, not a request to imitate another author’s surface style.
 
-Load `references/orthodox-literary-voice-synthesis.md` for the full source-informed craft standard. Scripture remains primary; beauty must reveal the passage rather than compete with it.
+Use `orthodox-literary-voice-synthesis.md` selectively for source-informed craft, not as another mandatory gate. Scripture remains primary; beauty must reveal the passage rather than compete with it.
 
 Write for a modern adult Orthodox reader and servant: someone who lives with work, family, distraction, doubt, moral pressure, and real parish life. The prose must be engaging enough to hold attention and deep enough to feed the soul. Engagement never means slang, therapy-speak, culture-war framing, self-help optimism, or academic display.
 
-## Governing sequence
+## Passage-led diagnostic questions
+
+Consider these across the guide; do not repeat the whole sequence in each section. Sustained argument, lament, consolation, praise, wonder and plain explanation may each be the passage's proper work.
 
 1. Give only the historical, literary, geographical, or cultural context that materially clarifies the passage.
 2. Name the spiritual problem or promise present in the surrounding verses.
@@ -33,7 +33,7 @@ Context is a doorway, not the destination. An introduction should normally estab
 - Do not tell readers that the passage is practical, pastoral, deep, or non-abstract. Demonstrate that through the explanation.
 - Do not flatten eloquence into short utilitarian prose. Beauty serves truth when the image or cadence grows from the text.
 - Speak as a sincere Orthodox teacher, not a lecturer, brand voice, or content engine.
-- When a scene-led or magazine-quality voice is requested, load `references/narrative-literary-bible-study-prose.md`. Use its craft principles without imitating a named writer.
+- When a scene-led or magazine-quality voice is requested, use the narrative-literary principles below without imitating a named writer.
 
 ### Phrases and patterns to reject
 
@@ -57,7 +57,7 @@ Reader-facing caution must protect truth without becoming the point of the parag
 
 ## Negation discipline
 
-Use negation when it serves the sentence or corrects a plausible misunderstanding. the lesson author's concern is repetitive corrective cadence, not a ban on `not`.
+Use negation when it serves the sentence or corrects a plausible misunderstanding. Avoid repetitive corrective cadence; this is not a ban on `not`.
 
 - `Not`, negative contractions, `rather than`, and `instead of` may appear when they sharpen the truth.
 - Watch for clusters of constructions such as `Paul does not...`, `This is not...`, `not merely...`, and `not just...` in nearby paragraphs. Repetition delays the direct claim and can sound manufactured.
@@ -66,7 +66,7 @@ Use negation when it serves the sentence or corrects a plausible misunderstandin
 
 ## Em dashes and punctuation
 
-Em dashes are allowed sparingly when they create a genuine interruption, turn, or emphasis that commas or periods would dull. They are not banned, and they are not a house signature. Prefer variety: periods for finality, semicolons for tight related claims, commas for ordinary flow, and an em dash only when the turn itself matters. If several em dashes appear close together, revise.
+Use no em dashes in original commentary unless an exception is explicitly requested for the work. Preserve exact approved Scripture and authenticated quotations rather than altering source punctuation to satisfy house style. Sustain eloquence through varied sentence rhythm, periods, semicolons, colons, and commas; punctuation discipline must not flatten the prose.
 
 ## Narrative-literary craft
 
@@ -78,12 +78,10 @@ Engaging prose begins with selection and structure, not ornament.
 - Build around a real tension in the text, then move quickly from the opening into interpretation.
 - Let structure remain beneath the prose while following the passage closely.
 - Vary sentence length and trust meaningful juxtaposition before explaining it twice.
-- Em dashes may serve a genuine interruption, turn, or emphasis. Use them sparingly and vary the surrounding punctuation.
+- Apply the punctuation rule above while preserving natural cadence; literary engagement does not depend on em dashes.
 - Carry the voice through the entire guide. An engaging introduction followed by generic checklist prose fails the standard.
 - Never invent sensory detail, dialogue, motives, chronology, or atmosphere for dramatic effect.
 - Treat literary techniques as flexible tools rather than quotas or a repeatable formula.
-
-See `references/narrative-literary-bible-study-prose.md` for the full class-level pattern and research anchors.
 
 ## Exegetical discipline
 
@@ -92,12 +90,12 @@ Every substantial paragraph must do at least one of these:
 - explain a word, phrase, verse, contrast, connection, or claim in the passage;
 - supply relevant verified context that changes how the passage is understood;
 - connect the passage to Orthodox Christology, ecclesial life, worship, sacrament, repentance, or ascetical practice where warranted;
-- expose a specific spiritual condition in the reader;
-- offer a concrete form of response, prayer, repentance, or faithful action.
+- illuminate a spiritual condition the text actually addresses, without presuming hidden motives in every reader;
+- help the reader receive, lament, praise, pray, repent, endure or act faithfully as the passage warrants.
 
 If a paragraph only restates a theme in elevated language, rewrite or remove it.
 
-Use respected modern exegesis for historical, literary, lexical, and theological precision. Let the Fathers illuminate the passage later in the guide through verified primary or clearly labeled thematic material. Do not front-load patristic names or quotations in the introduction unless the lesson author's explicitly asks for that structure.
+Use respected modern exegesis for historical, literary, lexical, and theological precision. Let the Fathers illuminate the passage later in the guide through verified primary or clearly labeled thematic material. Do not front-load patristic names or quotations in the introduction unless that structure is explicitly requested.
 
 ## Spiritual application
 
@@ -112,7 +110,7 @@ Application must arise from the text, not be attached afterward. Prefer recogniz
 - praying with words while the heart stays absent;
 - using correct doctrine as a weapon rather than a path to love and repentance.
 
-Do not make every application accusatory. The passage should also console, heal, strengthen, and reveal what the grace of Christ makes possible.
+Do not make every application accusatory or perform spiritual elderhood. Let the passage console, teach lament, awaken praise, strengthen or rebuke as warranted, showing what grace makes possible. Keep sin, temptation, suffering, illness, injury and disability distinct. Reject therapeutic substitution for theology without treating legitimate care or treatment as suspect.
 
 For Bible-study guides, `## Spiritual Fruit 🍇` must be concrete enough that a reader could examine conscience, pray differently, or teach from it. “Trust God more” and “be faithful” fail this bar unless they are sharpened by the passage’s actual claim.
 
@@ -124,6 +122,66 @@ Use questions when they awaken repentance, reflection, wonder, or a decision bef
 - Let declarative explanation and spiritual diagnosis carry most of the weight.
 - Keep every question that genuinely helps the reader hear the passage; remove questions used only as transitions or manufactured intensity.
 - Teaching Notes may use functional discussion questions more freely.
+
+## Editorial examples: learn the decision, not a formula
+
+These are editorial illustrations, not Scripture quotations, authenticated patristic quotations, or universal templates. Verify the passage and source context before applying them to a study.
+
+### 1. Depth is a discovery, not elevated restatement
+
+**Weak:** “The Psalm beautifully teaches profound trust and spiritual transformation.”
+
+**Better method:** point to the textual hinge that produces the insight. Preserve the approved translation; notice its tense, contrast, or sequence; explain the consequence with appropriate confidence. An observation established by the displayed English does not need a Greek lemma, but it cannot by itself prove the underlying Greek or textual history. The reader should be able to point to the words behind the insight.
+
+### 2. Join precision to economy
+
+**Weak:** “Our interior spiritual enlargement manifests the authentic acquisition of serenity.”
+
+**Better method:** explain the real difficulty, then use one plain sentence to make its spiritual consequence clear. Preserve repentance and obedience where the passage calls for them, but do not turn insomnia, involuntary thoughts, grief, or fear into proof of failed faith. Put necessary practical-care or safety guidance beside the risky claim, proportionate to that risk. Do not attach the same disclaimer to unrelated passages.
+
+### 3. Protect the memorable line, not its potential misuse
+
+**Weak revision practice:** replace distinctive images with generic references, then claim all strengths survived.
+
+**Better revision practice:** compare exact original and revised spans. Keep a sound image when it carries the argument; adapt or omit it when it could equate sadness with a sinful identity. Preserve the insight that prayer can lead toward joy without demanding an immediate brighter mood. Do not mislabel an editorial sentence as an exact Father quotation.
+
+Record a material loss and its tradeoff. Better source qualifications elsewhere do not automatically repay every literary loss; neither does an attractive line outrank truth or pastoral safety.
+
+### 4. A Father must advance the reading and retain his qualifications
+
+**Weak:** “The Fathers teach that tears always heal, so force yourself to weep.”
+
+**Better method:** identify the actual source, its subject, limiting clauses, and counsel. Do not turn qualified counsel into an absolute claim by adding “only.” An interpretation of healing from sin must not become a diagnosis that prolonged illness or grief proves personal guilt.
+
+Explain the Father's actual contribution, quote only permitted exact wording when useful, and preserve the relevant qualification even when shortening. Authentic wording still requires permission for the exact source and use. A short verified paraphrase may be spiritually stronger than another quotation.
+
+### 5. Worship becomes illumination, not an appointment list
+
+**Weak:** “This passage occurs in several services, demonstrating its liturgical richness.”
+
+**Better method:** name one verified occasion or service and its actual appointed words or companion reading, then explain how that pairing helps the reader hear this passage. A feast's familiar story does not replace its actual appointed Gospel; a wider-Psalm theme must not be presented as words read in a shorter lection.
+
+Distinguish appointment, wider biblical context, and editorial resonance. Verify the appropriate lectionary witness and record the edition used. Keep detailed source disputes and repeated service inventories in editorial evidence or a compact source note, not every body section. Do not turn a pairing into a guaranteed emotional or earthly outcome.
+
+### 6. Meaningful review can be concise
+
+**Weak evidence basis:** “Editorial.”
+
+**Useful basis:** “The counsel to speak hope after prayer follows this Psalm's petition-then-refrain order; it is editorial application, not an attributed quotation.”
+
+**Weak resolution label:** “Resolved,” when the guide merely omits an unverified service claim.
+
+**Useful distinction:** “Reader claim safely qualified; underlying service identity remains unresolved.”
+
+Identify the sentence and why its evidence supports the decision. Verify the footnote and Sources paragraph separately; correct attribution in one does not prove the other is correct. Concision removes repetition, not the evidence needed to check the conclusion.
+
+### 7. Spiritual Fruit gives a credible next response
+
+**Weak:** “Trust more. Be prayerful. Stay hopeful.”
+
+**Better method:** take a claim already explained and name a plausible response: bring a particular fear into the passage's prayer, distinguish a request for protection from revenge, receive a promise without manufacturing a feeling, or give thanks for a gift already named. State what grace makes possible rather than assigning hidden motives to every reader.
+
+A passage of lament may teach truthful prayer and companionship, not immediate emotional resolution. An epistle may deepen understanding through its argument before asking for a decision. Delight is often the reader's recognition that the actual text has become clearer and livable, not an ornamental ending.
 
 ## “Modern Chrysostom” review bar
 
@@ -158,7 +216,7 @@ Return a guide for revision when any of these are present:
 
 ## Final read-aloud test
 
-Read the introduction, one major explanation section, and Spiritual Fruit aloud when present. Ask:
+For a voice-sensitive pass, inspect the introduction, one major explanation, Spiritual Fruit and heavily changed prose for how they sound. Read the prose aloud when that review is in scope; otherwise label the result a text-only cadence review, not a read-aloud test. This check does not authorize producing additional media. Ask:
 
 1. Can a thoughtful parish reader understand it without specialized training?
 2. Can the reader point to the words of Scripture that support each major claim?
@@ -167,4 +225,4 @@ Read the introduction, one major explanation section, and Spiritual Fruit aloud 
 5. Does it sound written by a sincere Orthodox teacher rather than assembled from religious phrases?
 6. Would a modern adult keep reading, or does the prose feel flat, padded, or performative?
 
-If any answer is no, the guide is not publication-ready.
+A substantive failure becomes a sentence-specific finding under the quality contract; do not invent another score or demand extra ornament. Compare the proposed repair with the baseline and retain an already strong passage.

@@ -8,7 +8,7 @@ version: 1.0.0
 
 Use this skill for Revelation, Daniel, Ezekiel’s apocalyptic visions, the Olivet discourse, Pauline eschatological passages, and other texts involving beasts, cosmic signs, resurrection, judgment, Antichrist, millennium, Gog and Magog, or the end of the age.
 
-This skill supplements the main Bible-study drafting and Orthodox biblical-explanation skills. It does not replace their guide structure, canonical-vault rules, Scripture-source policy, patristic citation policy, or verification scripts.
+This skill supplements passage-explanation and adult-lesson skills. It does not replace their guide structure, Scripture-source policy, or patristic citation policy. For Bible-study headings and Teaching Notes categories, follow `references/shared/bible-study-guide-structure-standard.md`. That standard controls the separate `## Teaching Notes` after `## Spiritual Fruit 🍇`, not a genre-specific template.
 
 ## Aim
 
@@ -83,7 +83,7 @@ State the original term, transliteration, ordinary sense, occurrence pattern, an
 
 ## Writing pattern
 
-A strong guide usually includes:
+These are interpretive moves, not a compulsory heading inventory. Follow the shared guide-structure standard; omit irrelevant apparatus and non-applicability placeholders. A strong guide usually includes:
 
 1. **Passage-native opening:** a concrete action or reversal from the vision.
 2. **Literary explanation:** what John, Daniel, Ezekiel, Christ, or Paul actually sees and says.
@@ -91,7 +91,7 @@ A strong guide usually includes:
 4. **Orthodox and patristic reading:** sourced, honest, and placed after the introduction.
 5. **Disputed-detail note:** concise and proportionate.
 6. **Spiritual Fruit:** concrete formation rather than generic reassurance.
-7. **Teaching Notes:** misunderstandings to prevent, especially date calculation, geopolitical coding, fear, and violence.
+7. **Teaching Notes:** place relevant cautions about date calculation, geopolitical coding, fear, and violence under the structure standard's applicable categories; do not add categories merely to fill a template.
 8. **Sources:** direct URLs, exact citations, and clear separation of primary, patristic, Coptic, and academic sources.
 
 ## Spiritual Fruit prompts

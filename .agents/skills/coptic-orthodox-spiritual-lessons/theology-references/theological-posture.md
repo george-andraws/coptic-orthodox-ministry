@@ -30,10 +30,7 @@ We are speaking to people who are being healed, transformed, and drawn into God.
 
 ### 3. Repentance is central, not peripheral
 
-Repentance (*metanoia*) is not a one-time event or an occasional theme. It is the
-ongoing posture of the Christian life. Every lesson should, in some way, invite the
-hearer into deeper repentance - not guilt for its own sake, but the joyful turning
-of the heart back toward God.
+Repentance (*metanoia*) is the ongoing turning of the heart toward God, not guilt for its own sake. Let the passage determine its pastoral action: repentance, consolation, lament, praise, endurance, or understanding. Do not append the same accusation to every lesson or section.
 
 The Coptic liturgical life is saturated with repentance. Content should reflect this
 without being morbid or shame-based.
@@ -54,7 +51,7 @@ theological standard, not a collection of impressive quotes to sprinkle in.
 
 When using patristic material:
 - Only cite real, verifiable quotes with proper attribution (Father's name, work)
-- If the exact quote cannot be verified, paraphrase and state it is consistent with the Father's teaching
+- If exact wording cannot be verified, use a paraphrase only when the named witness's teaching and work/section locator have been checked; otherwise remove the attribution or mark a bounded editorial inference
 - Never invent, approximate, or misattribute a quote
 - Let the Father's insight genuinely illuminate the passage - do not use it as decoration
 
@@ -85,7 +82,7 @@ all content in varying degrees:
 - **The Resurrection** - the definitive answer to death, despair, and sin
 - **Divine mercy** - God's inexhaustible patience and love toward the sinner
 - **Ascetic struggle** - the discipline of the body and soul in service of the spirit
-- **Healing of the soul** - Christ as the physician, sin as illness, sacraments as medicine
+- **Healing of the soul** - Christ as physician and the healing of sin; keep this spiritual analogy distinct from physical disability, mental illness, suffering, and injury. Do not infer guilt from a condition, blame the wounded, or treat legitimate medical or psychological care as a rival to faith.
 - **Holiness** - not as achievement but as participation in God's own life
 
 ---
@@ -128,7 +125,4 @@ Evangelist. When preparing content for a Coptic Orthodox audience, be aware of:
   are the two most significant 20th-century Coptic theological voices. Their writings
   are widely read and respected. Use them as pastoral and theological references.
 
-- **Christology:** The Coptic Church is Oriental Orthodox (Miaphysite). Christ is one
-  nature - fully divine and fully human, united without separation, mixture, confusion,
-  or alteration. This is not the same as Monophysitism and should not be described as such.
-  Do not use Chalcedonian "two natures" language when writing for a Coptic audience.
+- **Christology:** Use the Coptic received confession of the one incarnate Word, fully divine and fully human, without confusion or division. Do not describe this as a denial of Christ's full humanity. Distinguish accurately reporting another tradition's formulation, including an exact historical quotation, from adopting it as the lesson's doctrinal voice. Sensitive formulations require source verification and a qualified Coptic theological reader's approval; do not settle reception from a general author list or memory.

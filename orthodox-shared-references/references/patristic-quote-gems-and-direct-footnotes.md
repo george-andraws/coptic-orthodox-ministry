@@ -1,6 +1,6 @@
 # Patristic quote gems and direct footnotes
 
-Use this reference for Orthodox Bible-study drafting, audit, or revision passes where existing patristic summaries should be strengthened with the Fathers' own verified words.
+Use this optional reference when a verified Father's own wording would add interpretive force, qualification or spiritual texture beyond an existing summary. The shared Bible-study quality contract governs substantive acceptance; a good paraphrase need not gain a quote, and no count governs readiness.
 
 ## Core standard
 
@@ -13,17 +13,16 @@ Use this reference for Orthodox Bible-study drafting, audit, or revision passes 
 7. The footnote definition itself contains the short citation and direct/deep URL. Do not make the footnote jump to an internal source-list anchor or say `See source [n]`.
 8. Keep `Sources and Further Reading` as a clean numbered list when the guide contains direct quote footnotes.
 
-## Batch continuation workflow
+## Revision workflow
 
-When extending an existing book-series pass:
+When extending an existing study series:
 
-1. Use the book index as the authoritative map for canonical guide filenames and order. Do not infer paths from memory.
-2. Inventory the target batch before editing: existing `Gems from the Fathers` sections, direct quote markers, source sections, and downstream Docs/audio freshness state.
-3. Query local patristic tooling first and honor `publication_status`, `known_gaps`, and paraphrase-only caps. Use public-domain web sources or normalized local source text only to verify exact wording, not to invent new attributions.
-4. Patch surgically beside the existing paraphrase. Preserve already-good commentary unless the lesson author's explicitly asks for a rewrite.
-5. If the structural verifier exposes legacy gaps while you are already revising the guide, repair narrow canonical structure gaps needed for the guide to pass, then disclose that extra repair.
-6. Mark downstream Docs/audio stale when source Markdown changes.
-7. Write a batch audit note that lists the exact quotes added, source-status basis, and verification results.
+1. Use the book index as the authoritative map for guide filenames and order. Do not infer paths from memory.
+2. Inventory the target guides before editing: existing `Gems from the Fathers` sections, direct quote markers, and source sections.
+3. Follow the patristic sourcing policy and the exact source/edition's rights, publication permissions, known gaps, and current task restrictions. Paraphrase-only status is not quote permission; a cap limits permitted quotation but does not authorize it. Use eligible source text to verify exact wording, never to invent attributions.
+4. Patch beside the existing paraphrase. Preserve already-good commentary unless a rewrite is explicitly requested.
+5. Report structural defects outside the authorized edit instead of silently migrating the guide. Repair a narrow defect only when in scope, preserving approved form and exact Scripture.
+6. Preserve before/after quote evidence and verification in the existing editorial research or audit record. Do not create additional logs solely to satisfy this reference.
 
 ## Verification pattern
 
@@ -34,12 +33,12 @@ After patching a guide or batch:
 - Check every footnote definition has a citation and direct/deep URL.
 - Scan for old redundant-hop patterns: `See source`, `#src-`, `<a id=`, `stable source-list anchor`, `footnote links back`.
 - Verify numbered source lists are consecutive where present.
-- Run the guide verifier and a Markdown knowledge base broken-link check for the folder when available.
+- Run available guide validation and portable Markdown broken-link checks for the folder.
 - Re-run verification after bookkeeping edits, not only before them.
 
 ## Pitfalls
 
-- Do not summarize instead of quoting when the lesson author's explicitly asked for the Fathers' own voice.
+- Do not summarize instead of quoting when the request explicitly calls for the Fathers' own voice.
 - Do not make quotes artificially short if a fuller public-domain excerpt is clearer and spiritually stronger.
-- Do not let a footnote point to a source-list entry that then points to the real URL. the lesson author's corrected this as redundant.
+- Do not let a footnote point to a source-list entry that then points to the real URL. This adds a redundant navigation step.
 - Do not delete body text when normalizing a heading. Change the heading only unless the body itself is wrong.

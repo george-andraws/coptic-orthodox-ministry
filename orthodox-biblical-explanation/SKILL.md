@@ -31,4 +31,8 @@ For a substantial study guide, use a passage-native opening, context, close expl
 
 ## Boundaries
 
+Before revising an existing explanation, read the whole piece, preserve its approved Scripture frame, structure, and strongest prose, and change only what the identified weaknesses require. A request for recommendations or a prose-only correction does not authorize saving, indexing, visual research, companion assets, or publication.
+
+Interpret within the received Coptic confession. Distinguish wider Christian exegetical witnesses from authorities normative for Coptic doctrine, and seek qualified Coptic theological review for sensitive formulations. Let the passage call for repentance, consolation, lament, praise, endurance, or plain explanation. Do not claim knowledge of hidden motives, and do not treat illness, disability, suffering, or injury as evidence of chosen sin.
+
 Use `orthodox-apocalyptic-exegesis` for Revelation, Daniel, Ezekiel's visions, the Olivet discourse, or other apocalyptic texts. Use the adult-lesson skill when the primary deliverable is a meeting lesson or announcement. Keep project-specific publishing, audio, document-sync, and local knowledge-base procedures out of this portable skill.

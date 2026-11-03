@@ -4,7 +4,7 @@ Use this reference when a Bible-study, Orthodox lesson, Coptic rite/season, manu
 
 ## What the site is
 
-Coptic Treasures is a Coptic Orthodox source-discovery portal with public WordPress book pages and shared storage PDF links. It is valuable because it gathers English-accessible Coptic Orthodox resources, especially Fr. Tadros Yacoub Malaty, rites/seasons, manuscripts, Coptic Bible/textual material, iconography, archaeology, hagiography, and church history.
+Coptic Treasures is a Coptic Orthodox source-discovery portal with public book pages and links to hosted PDFs. It is valuable because it gathers English-accessible Coptic Orthodox resources, especially Fr. Tadros Yacoub Malaty, rites/seasons, manuscripts, Coptic Bible/textual material, iconography, archaeology, hagiography, and church history.
 
 Treat it as a **Coptic Orthodox / pastoral and source-discovery library**, not as a primary patristic authority.
 
@@ -21,7 +21,7 @@ Treat it as a **Coptic Orthodox / pastoral and source-discovery library**, not a
 
 3. **Rites, seasons, and sacraments**
    - Use for discovery and spiritual/liturgical framing.
-   - Verify exact rubrics, readings, service order, and lectionary claims against primary rite books, Coptic Reader-derived data, the lesson author's local lectionary package, or direct service texts before asserting them.
+   - Verify exact rubrics, readings, service order, and lectionary claims against primary rite books, identified lectionary sources, or direct service texts before asserting them.
 
 4. **Manuscripts, Coptic Bible, Coptic-language, patrology, and older academic scans**
    - Use as access/discovery leads.
@@ -32,36 +32,16 @@ Treat it as a **Coptic Orthodox / pastoral and source-discovery library**, not a
    - Useful for lesson visual research and historical background.
    - Check rights/source provenance before embedding images or treating them as reusable assets.
 
-## Recommended local mirror shape
+## Selective source discovery
 
-Do **not** mirror the whole site by default. A sampled catalog was about 615 items and roughly 4.8 GB, with many large specialized scans.
-
-Mirror first:
-
-- All Fr. Tadros biblical commentaries, about 86 files, roughly 469 MB.
-- Core Fr. Tadros doctrine/rites/spiritual-life works, about 30 files, roughly 63 MB.
-- Small rites/seasons/sacraments resources, about 40-90 MB depending on filter.
-- A catalog file preserving title, source URL, author, categories, file size, shared storage ID, local path, checksum, and extracted-text path when available.
-
-Suggested destination if mirrored into a Markdown knowledge base/reference storage:
-
-`Hermes/04-Reference/Coptic Orthodox Lessons/Source Library/Coptic Treasures/`
-
-Suggested subfolders:
-
-- `Fr Tadros Malaty/Biblical Commentaries/`
-- `Fr Tadros Malaty/Doctrine and Spiritual Life/`
-- `Rites Seasons Sacraments/`
-- `Manuscripts and Coptic Bible/Selected/`
-- `Catalog/`
-
-Download on demand:
+Use sources on demand rather than copying the whole site. Begin with Fr. Tadros biblical commentaries and relevant doctrine, rites or spiritual-life works. Consult large manuscript, textual, archaeology or history scans only when the study needs them:
 
 - Evelyn White Wadi Natrun monastery volumes.
 - Horner Coptic New Testament volumes.
 - Walter E. Crum dictionary/catalogue/manuscript scans.
 - Tattam, Ciasca, and other large textual editions.
-- Large archaeology/history scans unless a specific guide needs them.
+
+Record the work's title, author/editor, edition, stable source URL and page or section used. Verify rights before downloading, sharing or reusing material; public availability alone does not establish redistribution permission.
 
 ## Existing mirrors / alternate sources
 
@@ -73,6 +53,16 @@ Known overlap:
 - St. Mina Hamilton resource mirrors for some PDFs.
 - Orthokairos / Weebly and older CopticVault mirrors for scattered Fr. Tadros works.
 - Internet Archive, Google Books, archive/library scans for older public-domain manuscript, Coptic Bible, archaeology, and history works.
+
+## Pope Shenouda III on living faith and cooperation
+
+For faith-and-works studies, begin with Pope Shenouda III's *Life of Faith*. Accessible primary-work text is hosted at <https://st-takla.org/books/en/pope-shenouda-iii/life-of-faith/index.html>; reopen the relevant section and its context before using exact wording.
+
+- Chapter 3, subsection 14, “Faith Working In With Love”: <https://st-takla.org/books/en/pope-shenouda-iii/life-of-faith/love.html>. Connects Galatians 5:6 with James's teaching on living faith and love fulfilling the law. The site's item number is not the book's chapter number.
+- Chapter 10, subsection 2, “To Examine Faith Through Deeds”: <https://st-takla.org/books/en/pope-shenouda-iii/life-of-faith/deeds.html>. Reads James alongside Titus, Timothy and John; useful for explaining that caring for one's household belongs to living faith, not only public religious service.
+- Chapter 7, “Obedience of faith or a life of submission”: <https://st-takla.org/books/en/pope-shenouda-iii/life-of-faith/submission.html>. Grounds human cooperation in John 15:5 and Philippians 2:13: good will and the ability to act depend on God. Preserve that controlling context when excerpting participation language.
+
+Cite the named work and subsection as a modern Coptic doctrinal/pastoral witness, not an ancient patristic quotation. A reference recommending *Salvation in the Orthodox Concept* does not establish firsthand access to that book; use the work actually opened rather than transferring an attribution between titles. Keep developed exposition in one primary study and use brief pointers elsewhere.
 
 ## Source-list placement in final guides
 
@@ -96,15 +86,3 @@ Avoid:
 - `The Fathers say...` when the only source checked was Fr. Tadros.
 - `This rite is performed/read on...` unless verified from primary rite/lectionary sources.
 - Treating a Coptic Treasures category assignment as a final theological or liturgical claim.
-
-## Session audit artifact
-
-A detailed site audit was saved in the lesson author's a Markdown knowledge base vault at:
-
-`Hermes/04-Reference/Coptic Orthodox Lessons/References/Biblical Explanations/Source Audits/Coptic Treasures Site Audit - 2026-06-03.md`
-
-The sampled catalog and recommended mirror manifests from that session were written under `<local path>`:
-
-- `coptic_treasures_public_catalog_sampled.json`
-- `coptic_treasures_recommended_mirror_manifest.csv`
-- `coptic_treasures_recommended_mirror_manifest.md`

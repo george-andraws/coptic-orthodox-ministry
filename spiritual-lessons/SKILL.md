@@ -26,6 +26,12 @@ Do not assume a private vault, calendar, licensed corpus, document service, or d
 
 Unless the user explicitly asks to draft immediately, offer a concise direction pass: audience, occasion, governing burden, main text, and a recommended arc. Do not let clarification prevent a useful answer when the request already supplies these.
 
+## Revision and scope
+
+For a revision, read the entire existing lesson, preserve its approved structure and strongest prose, and repair the named weaknesses rather than restarting or replacing it by default. A recommendations-only or prose-only request does not authorize visual research, companion assets, saving, or publication. Use the lesson structure as a planning menu: omit optional sections that add no interpretive value, and do not print non-applicability placeholders. Write explanatory articles as finished reader-facing prose, without adding speaker apparatus merely because they share a collection with lessons.
+
+For St. Basil iconography, read `references/basil-iconography-notes.md`.
+
 ## Lesson standard
 
 A complete adult lesson normally has:
